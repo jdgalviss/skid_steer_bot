@@ -48,7 +48,7 @@ Visualization Manager:
         Z: 0
       Plane: XY
       Plane Cell Count: 10
-      Reference Frame: map
+      Reference Frame: odom
       Value: true
     - Alpha: 1
       Class: rviz/RobotModel
@@ -142,9 +142,9 @@ Visualization Manager:
       Enabled: true
       Invert Rainbow: false
       Max Color: 255; 255; 255
-      Max Intensity: 999999
+      Max Intensity: 3.14332891e-12
       Min Color: 0; 0; 0
-      Min Intensity: 8.40779079e-45
+      Min Intensity: 0
       Name: LaserScan
       Position Transformer: XYZ
       Queue Size: 10
@@ -258,7 +258,7 @@ Visualization Manager:
   Global Options:
     Background Color: 48; 48; 48
     Default Light: true
-    Fixed Frame: map
+    Fixed Frame: odom
     Frame Rate: 30
   Name: root
   Tools:
@@ -279,25 +279,25 @@ Visualization Manager:
   Views:
     Current:
       Class: rviz/Orbit
-      Distance: 16.1349964
+      Distance: 8.82608223
       Enable Stereo Rendering:
         Stereo Eye Separation: 0.0599999987
         Stereo Focal Distance: 1
         Swap Stereo Eyes: false
         Value: false
       Focal Point:
-        X: 1.06372964
-        Y: -2.49687362
-        Z: -0.912361026
+        X: -0.103044361
+        Y: -1.44329429
+        Z: 1.04360962
       Focal Shape Fixed Size: true
       Focal Shape Size: 0.0500000007
       Invert Z Axis: false
       Name: Current View
       Near Clip Distance: 0.00999999978
-      Pitch: 0.674796999
+      Pitch: 0.569797158
       Target Frame: <Fixed Frame>
       Value: Orbit (rviz)
-      Yaw: 5.45358419
+      Yaw: 5.68858385
     Saved: ~
 Window Geometry:
   Camera:

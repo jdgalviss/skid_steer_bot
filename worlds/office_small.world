@@ -1927,14 +1927,14 @@
         <visual name='visual'>
           <geometry>
             <mesh>
-              <uri>models/desk_brown/meshes/table.dae</uri>
+              <uri>model://desk_brown/meshes/table.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
           <material>
             <script>
-              <uri>models/desk_brown/materials/scripts</uri>
-              <uri>models/desk_brown/materials/textures</uri>
+              <uri>model://desk_brown/materials/scripts</uri>
+              <uri>model://desk_brown/materials/textures</uri>
               <name>desk_brown</name>
             </script>
           </material>
@@ -1947,7 +1947,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/desk_brown/meshes/table.dae</uri>
+              <uri>model://desk_brown/meshes/table.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -1978,14 +1978,14 @@
         <visual name='visual'>
           <geometry>
             <mesh>
-              <uri>models/desk_brown/meshes/table.dae</uri>
+              <uri>model://desk_brown/meshes/table.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
           <material>
             <script>
-              <uri>models/desk_brown/materials/scripts</uri>
-              <uri>models/desk_brown/materials/textures</uri>
+              <uri>model://desk_brown/materials/scripts</uri>
+              <uri>model://desk_brown/materials/textures</uri>
               <name>desk_brown</name>
             </script>
           </material>
@@ -1998,7 +1998,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/desk_brown/meshes/table.dae</uri>
+              <uri>model://desk_brown/meshes/table.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -2029,14 +2029,14 @@
         <visual name='visual'>
           <geometry>
             <mesh>
-              <uri>models/desk_brown/meshes/table.dae</uri>
+              <uri>model://desk_brown/meshes/table.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
           <material>
             <script>
-              <uri>models/desk_brown/materials/scripts</uri>
-              <uri>models/desk_brown/materials/textures</uri>
+              <uri>model://desk_brown/materials/scripts</uri>
+              <uri>model://desk_brown/materials/textures</uri>
               <name>desk_brown</name>
             </script>
           </material>
@@ -2049,7 +2049,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/desk_brown/meshes/table.dae</uri>
+              <uri>model://desk_brown/meshes/table.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -2080,14 +2080,14 @@
         <visual name='visual'>
           <geometry>
             <mesh>
-              <uri>models/desk_brown/meshes/table.dae</uri>
+              <uri>model://desk_brown/meshes/table.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
           <material>
             <script>
-              <uri>models/desk_brown/materials/scripts</uri>
-              <uri>models/desk_brown/materials/textures</uri>
+              <uri>model://desk_brown/materials/scripts</uri>
+              <uri>model://desk_brown/materials/textures</uri>
               <name>desk_brown</name>
             </script>
           </material>
@@ -2100,7 +2100,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/desk_brown/meshes/table.dae</uri>
+              <uri>model://desk_brown/meshes/table.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -2131,14 +2131,14 @@
         <visual name='visual'>
           <geometry>
             <mesh>
-              <uri>models/desk_brown/meshes/table.dae</uri>
+              <uri>model://desk_brown/meshes/table.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
           <material>
             <script>
-              <uri>models/desk_brown/materials/scripts</uri>
-              <uri>models/desk_brown/materials/textures</uri>
+              <uri>model://desk_brown/materials/scripts</uri>
+              <uri>model://desk_brown/materials/textures</uri>
               <name>desk_brown</name>
             </script>
           </material>
@@ -2151,7 +2151,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/desk_brown/meshes/table.dae</uri>
+              <uri>model://desk_brown/meshes/table.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -2181,14 +2181,14 @@
         <visual name='visual'>
           <geometry>
             <mesh>
-              <uri>models/file_cabinet_small/meshes/model.dae</uri>
+              <uri>model://file_cabinet_small/meshes/model.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
           <material>
             <script>
-              <uri>models/file_cabinet_small/materials/scripts</uri>
-              <uri>models/file_cabinet_small/materials/textures</uri>
+              <uri>model://file_cabinet_small/materials/scripts</uri>
+              <uri>model://file_cabinet_small/materials/textures</uri>
               <name>file_black</name>
             </script>
           </material>
@@ -2201,7 +2201,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/file_cabinet_small/meshes/model.dae</uri>
+              <uri>model://file_cabinet_small/meshes/model.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -2232,14 +2232,14 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/file_cabinet_large/meshes/model.dae</uri>
+              <uri>model://file_cabinet_large/meshes/model.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
           <material>
             <script>
-              <uri>models/file_cabinet_large/materials/scripts</uri>
-              <uri>models/file_cabinet_large/materials/textures</uri>
+              <uri>model://file_cabinet_large/materials/scripts</uri>
+              <uri>model://file_cabinet_large/materials/textures</uri>
               <name>file_black</name>
             </script>
           </material>
@@ -2252,7 +2252,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/file_cabinet_large/meshes/model.dae</uri>
+              <uri>model://file_cabinet_large/meshes/model.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -2283,14 +2283,14 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/file_cabinet_large/meshes/model.dae</uri>
+              <uri>model://file_cabinet_large/meshes/model.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
           <material>
             <script>
-              <uri>models/file_cabinet_large/materials/scripts</uri>
-              <uri>models/file_cabinet_large/materials/textures</uri>
+              <uri>model://file_cabinet_large/materials/scripts</uri>
+              <uri>model://file_cabinet_large/materials/textures</uri>
               <name>file_black</name>
             </script>
           </material>
@@ -2303,7 +2303,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/file_cabinet_large/meshes/model.dae</uri>
+              <uri>model://file_cabinet_large/meshes/model.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -2335,14 +2335,14 @@
             <pose frame=''>0 0 0 0 -0 0</pose>
             <geometry>
               <mesh>
-                <uri>models/door_3d/meshes/door_v2_door.dae</uri>
+                <uri>model://door_3d/meshes/door_v2_door.dae</uri>
                 <scale>1 1 1</scale>
               </mesh>
             </geometry>
             <material>
               <script>
-                <uri>models/door_3d/materials/scripts</uri>
-                <uri>models/door_3d/materials/textures</uri>
+                <uri>model://door_3d/materials/scripts</uri>
+                <uri>model://door_3d/materials/textures</uri>
                 <name>door_3d</name>
               </script>
             </material>
@@ -2355,7 +2355,7 @@
             <pose frame=''>0 0 0 0 -0 0</pose>
             <geometry>
               <mesh>
-                <uri>models/door_3d/meshes/door_v2_door.dae</uri>
+                <uri>model://door_3d/meshes/door_v2_door.dae</uri>
                 <scale>1 1 1</scale>
               </mesh>
             </geometry>
@@ -2381,14 +2381,14 @@
             <pose frame=''>0 0 0 0 -0 0</pose>
             <geometry>
               <mesh>
-                <uri>models/door_3d/meshes/door_v2_handle.dae</uri>
+                <uri>model://door_3d/meshes/door_v2_handle.dae</uri>
                 <scale>1 1 1</scale>
               </mesh>
             </geometry>
             <material>
               <script>
-                <uri>models/door_3d/materials/scripts</uri>
-                <uri>models/door_3d/materials/textures</uri>
+                <uri>model://door_3d/materials/scripts</uri>
+                <uri>model://door_3d/materials/textures</uri>
                 <name>door_handle</name>
               </script>
             </material>
@@ -2401,7 +2401,7 @@
             <pose frame=''>0 0 0 0 -0 0</pose>
             <geometry>
               <mesh>
-                <uri>models/door_3d/meshes/door_v2_handle.dae</uri>
+                <uri>model://door_3d/meshes/door_v2_handle.dae</uri>
                 <scale>1 1 1</scale>
               </mesh>
             </geometry>
@@ -2439,8 +2439,8 @@
             </geometry>
             <material>
               <script>
-                <uri>models/office_small/materials/scripts</uri>
-                <uri>models/office_small/materials/textures</uri>
+                <uri>model://office_small/materials/scripts</uri>
+                <uri>model://office_small/materials/textures</uri>
                 <name>wall_white</name>
               </script>
             </material>
@@ -2475,8 +2475,8 @@
             </geometry>
             <material>
               <script>
-                <uri>models/office_small/materials/scripts</uri>
-                <uri>models/office_small/materials/textures</uri>
+                <uri>model://office_small/materials/scripts</uri>
+                <uri>model://office_small/materials/textures</uri>
                 <name>wall_white</name>
               </script>
             </material>
@@ -2511,8 +2511,8 @@
             </geometry>
             <material>
               <script>
-                <uri>models/office_small/materials/scripts</uri>
-                <uri>models/office_small/materials/textures</uri>
+                <uri>model://office_small/materials/scripts</uri>
+                <uri>model://office_small/materials/textures</uri>
                 <name>wall_white</name>
               </script>
             </material>
@@ -2553,8 +2553,8 @@
             </geometry>
             <material>
               <script>
-                <uri>models/office_small/materials/scripts</uri>
-                <uri>models/office_small/materials/textures</uri>
+                <uri>model://office_small/materials/scripts</uri>
+                <uri>model://office_small/materials/textures</uri>
                 <name>wall_white</name>
               </script>
             </material>
@@ -2589,8 +2589,8 @@
             </geometry>
             <material>
               <script>
-                <uri>models/office_small/materials/scripts</uri>
-                <uri>models/office_small/materials/textures</uri>
+                <uri>model://office_small/materials/scripts</uri>
+                <uri>model://office_small/materials/textures</uri>
                 <name>wall_white</name>
               </script>
             </material>
@@ -2625,8 +2625,8 @@
             </geometry>
             <material>
               <script>
-                <uri>models/office_small/materials/scripts</uri>
-                <uri>models/office_small/materials/textures</uri>
+                <uri>model://office_small/materials/scripts</uri>
+                <uri>model://office_small/materials/textures</uri>
                 <name>wall_white</name>
               </script>
             </material>
@@ -2661,8 +2661,8 @@
             </geometry>
             <material>
               <script>
-                <uri>models/office_small/materials/scripts</uri>
-                <uri>models/office_small/materials/textures</uri>
+                <uri>model://office_small/materials/scripts</uri>
+                <uri>model://office_small/materials/textures</uri>
                 <name>wall_white</name>
               </script>
             </material>
@@ -2703,8 +2703,8 @@
             </geometry>
             <material>
               <script>
-                <uri>models/office_small/materials/scripts</uri>
-                <uri>models/office_small/materials/textures</uri>
+                <uri>model://office_small/materials/scripts</uri>
+                <uri>model://office_small/materials/textures</uri>
                 <name>wall_white</name>
               </script>
             </material>
@@ -2739,8 +2739,8 @@
             </geometry>
             <material>
               <script>
-                <uri>models/office_small/materials/scripts</uri>
-                <uri>models/office_small/materials/textures</uri>
+                <uri>model://office_small/materials/scripts</uri>
+                <uri>model://office_small/materials/textures</uri>
                 <name>wall_white</name>
               </script>
             </material>
@@ -2775,8 +2775,8 @@
             </geometry>
             <material>
               <script>
-                <uri>models/office_small/materials/scripts</uri>
-                <uri>models/office_small/materials/textures</uri>
+                <uri>model://office_small/materials/scripts</uri>
+                <uri>model://office_small/materials/textures</uri>
                 <name>wall_white</name>
               </script>
             </material>
@@ -2811,8 +2811,8 @@
             </geometry>
             <material>
               <script>
-                <uri>models/office_small/materials/scripts</uri>
-                <uri>models/office_small/materials/textures</uri>
+                <uri>model://office_small/materials/scripts</uri>
+                <uri>model://office_small/materials/textures</uri>
                 <name>wall_white</name>
               </script>
             </material>
@@ -2853,8 +2853,8 @@
             </geometry>
             <material>
               <script>
-                <uri>models/office_small/materials/scripts</uri>
-                <uri>models/office_small/materials/textures</uri>
+                <uri>model://office_small/materials/scripts</uri>
+                <uri>model://office_small/materials/textures</uri>
                 <name>wall_white</name>
               </script>
             </material>
@@ -2889,8 +2889,8 @@
             </geometry>
             <material>
               <script>
-                <uri>models/office_small/materials/scripts</uri>
-                <uri>models/office_small/materials/textures</uri>
+                <uri>model://office_small/materials/scripts</uri>
+                <uri>model://office_small/materials/textures</uri>
                 <name>wall_white</name>
               </script>
             </material>
@@ -2925,8 +2925,8 @@
             </geometry>
             <material>
               <script>
-                <uri>models/office_small/materials/scripts</uri>
-                <uri>models/office_small/materials/textures</uri>
+                <uri>model://office_small/materials/scripts</uri>
+                <uri>model://office_small/materials/textures</uri>
                 <name>wall_white</name>
               </script>
             </material>
@@ -2961,8 +2961,8 @@
             </geometry>
             <material>
               <script>
-                <uri>models/office_small/materials/scripts</uri>
-                <uri>models/office_small/materials/textures</uri>
+                <uri>model://office_small/materials/scripts</uri>
+                <uri>model://office_small/materials/textures</uri>
                 <name>wall_white</name>
               </script>
             </material>
@@ -2997,8 +2997,8 @@
             </geometry>
             <material>
               <script>
-                <uri>models/office_small/materials/scripts</uri>
-                <uri>models/office_small/materials/textures</uri>
+                <uri>model://office_small/materials/scripts</uri>
+                <uri>model://office_small/materials/textures</uri>
                 <name>wall_white</name>
               </script>
             </material>
@@ -3033,8 +3033,8 @@
             </geometry>
             <material>
               <script>
-                <uri>models/office_small/materials/scripts</uri>
-                <uri>models/office_small/materials/textures</uri>
+                <uri>model://office_small/materials/scripts</uri>
+                <uri>model://office_small/materials/textures</uri>
                 <name>wall_white</name>
               </script>
             </material>
@@ -3293,8 +3293,8 @@
             </geometry>
             <material>
               <script>
-                <uri>models/office_small/materials/scripts</uri>
-                <uri>models/office_small/materials/textures</uri>
+                <uri>model://office_small/materials/scripts</uri>
+                <uri>model://office_small/materials/textures</uri>
                 <name>floor</name>
               </script>
             </material>
@@ -3316,7 +3316,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/office_chair/meshes/chair_wheels.dae</uri>
+              <uri>model://office_chair/meshes/chair_wheels.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -3339,7 +3339,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/office_chair/meshes/chair_wheels.dae</uri>
+              <uri>model://office_chair/meshes/chair_wheels.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -3366,7 +3366,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/office_chair/meshes/chair_wheels.dae</uri>
+              <uri>model://office_chair/meshes/chair_wheels.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -3389,7 +3389,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/office_chair/meshes/chair_wheels.dae</uri>
+              <uri>model://office_chair/meshes/chair_wheels.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -3416,7 +3416,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/office_chair/meshes/chair_wheels.dae</uri>
+              <uri>model://office_chair/meshes/chair_wheels.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -3439,7 +3439,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/office_chair/meshes/chair_wheels.dae</uri>
+              <uri>model://office_chair/meshes/chair_wheels.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -3466,7 +3466,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/office_chair/meshes/chair_wheels.dae</uri>
+              <uri>model://office_chair/meshes/chair_wheels.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -3489,7 +3489,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/office_chair/meshes/chair_wheels.dae</uri>
+              <uri>model://office_chair/meshes/chair_wheels.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -3516,7 +3516,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/office_chair/meshes/chair_wheels.dae</uri>
+              <uri>model://office_chair/meshes/chair_wheels.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -3539,7 +3539,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/office_chair/meshes/chair_wheels.dae</uri>
+              <uri>model://office_chair/meshes/chair_wheels.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -3566,7 +3566,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/office_chair/meshes/chair_base.dae</uri>
+              <uri>model://office_chair/meshes/chair_base.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -3589,7 +3589,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/office_chair/meshes/chair_base.dae</uri>
+              <uri>model://office_chair/meshes/chair_base.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -3616,7 +3616,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/office_chair/meshes/chair_cushion.dae</uri>
+              <uri>model://office_chair/meshes/chair_cushion.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -3636,7 +3636,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/office_chair/meshes/chair_cushion.dae</uri>
+              <uri>model://office_chair/meshes/chair_cushion.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -3668,7 +3668,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/office_chair/meshes/chair_wheels.dae</uri>
+              <uri>model://office_chair/meshes/chair_wheels.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -3691,7 +3691,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/office_chair/meshes/chair_wheels.dae</uri>
+              <uri>model://office_chair/meshes/chair_wheels.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -3718,7 +3718,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/office_chair/meshes/chair_wheels.dae</uri>
+              <uri>model://office_chair/meshes/chair_wheels.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -3741,7 +3741,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/office_chair/meshes/chair_wheels.dae</uri>
+              <uri>model://office_chair/meshes/chair_wheels.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -3768,7 +3768,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/office_chair/meshes/chair_wheels.dae</uri>
+              <uri>model://office_chair/meshes/chair_wheels.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -3791,7 +3791,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/office_chair/meshes/chair_wheels.dae</uri>
+              <uri>model://office_chair/meshes/chair_wheels.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -3818,7 +3818,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/office_chair/meshes/chair_wheels.dae</uri>
+              <uri>model://office_chair/meshes/chair_wheels.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -3841,7 +3841,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/office_chair/meshes/chair_wheels.dae</uri>
+              <uri>model://office_chair/meshes/chair_wheels.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -3868,7 +3868,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/office_chair/meshes/chair_wheels.dae</uri>
+              <uri>model://office_chair/meshes/chair_wheels.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -3891,7 +3891,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/office_chair/meshes/chair_wheels.dae</uri>
+              <uri>model://office_chair/meshes/chair_wheels.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -3918,7 +3918,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/office_chair/meshes/chair_base.dae</uri>
+              <uri>model://office_chair/meshes/chair_base.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -3941,7 +3941,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/office_chair/meshes/chair_base.dae</uri>
+              <uri>model://office_chair/meshes/chair_base.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -3968,7 +3968,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/office_chair/meshes/chair_cushion.dae</uri>
+              <uri>model://office_chair/meshes/chair_cushion.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -3988,7 +3988,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/office_chair/meshes/chair_cushion.dae</uri>
+              <uri>model://office_chair/meshes/chair_cushion.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -4020,7 +4020,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/office_chair/meshes/chair_wheels.dae</uri>
+              <uri>model://office_chair/meshes/chair_wheels.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -4043,7 +4043,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/office_chair/meshes/chair_wheels.dae</uri>
+              <uri>model://office_chair/meshes/chair_wheels.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -4070,7 +4070,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/office_chair/meshes/chair_wheels.dae</uri>
+              <uri>model://office_chair/meshes/chair_wheels.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -4093,7 +4093,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/office_chair/meshes/chair_wheels.dae</uri>
+              <uri>model://office_chair/meshes/chair_wheels.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -4120,7 +4120,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/office_chair/meshes/chair_wheels.dae</uri>
+              <uri>model://office_chair/meshes/chair_wheels.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -4143,7 +4143,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/office_chair/meshes/chair_wheels.dae</uri>
+              <uri>model://office_chair/meshes/chair_wheels.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -4170,7 +4170,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/office_chair/meshes/chair_wheels.dae</uri>
+              <uri>model://office_chair/meshes/chair_wheels.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -4193,7 +4193,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/office_chair/meshes/chair_wheels.dae</uri>
+              <uri>model://office_chair/meshes/chair_wheels.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -4220,7 +4220,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/office_chair/meshes/chair_wheels.dae</uri>
+              <uri>model://office_chair/meshes/chair_wheels.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -4243,7 +4243,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/office_chair/meshes/chair_wheels.dae</uri>
+              <uri>model://office_chair/meshes/chair_wheels.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -4270,7 +4270,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/office_chair/meshes/chair_base.dae</uri>
+              <uri>model://office_chair/meshes/chair_base.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -4293,7 +4293,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/office_chair/meshes/chair_base.dae</uri>
+              <uri>model://office_chair/meshes/chair_base.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -4320,7 +4320,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/office_chair/meshes/chair_cushion.dae</uri>
+              <uri>model://office_chair/meshes/chair_cushion.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -4340,7 +4340,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/office_chair/meshes/chair_cushion.dae</uri>
+              <uri>model://office_chair/meshes/chair_cushion.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -4372,7 +4372,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/office_chair/meshes/chair_wheels.dae</uri>
+              <uri>model://office_chair/meshes/chair_wheels.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -4395,7 +4395,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/office_chair/meshes/chair_wheels.dae</uri>
+              <uri>model://office_chair/meshes/chair_wheels.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -4422,7 +4422,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/office_chair/meshes/chair_wheels.dae</uri>
+              <uri>model://office_chair/meshes/chair_wheels.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -4445,7 +4445,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/office_chair/meshes/chair_wheels.dae</uri>
+              <uri>model://office_chair/meshes/chair_wheels.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -4472,7 +4472,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/office_chair/meshes/chair_wheels.dae</uri>
+              <uri>model://office_chair/meshes/chair_wheels.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -4495,7 +4495,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/office_chair/meshes/chair_wheels.dae</uri>
+              <uri>model://office_chair/meshes/chair_wheels.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -4522,7 +4522,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/office_chair/meshes/chair_wheels.dae</uri>
+              <uri>model://office_chair/meshes/chair_wheels.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -4545,7 +4545,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/office_chair/meshes/chair_wheels.dae</uri>
+              <uri>model://office_chair/meshes/chair_wheels.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -4572,7 +4572,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/office_chair/meshes/chair_wheels.dae</uri>
+              <uri>model://office_chair/meshes/chair_wheels.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -4595,7 +4595,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/office_chair/meshes/chair_wheels.dae</uri>
+              <uri>model://office_chair/meshes/chair_wheels.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -4622,7 +4622,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/office_chair/meshes/chair_base.dae</uri>
+              <uri>model://office_chair/meshes/chair_base.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -4645,7 +4645,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/office_chair/meshes/chair_base.dae</uri>
+              <uri>model://office_chair/meshes/chair_base.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -4672,7 +4672,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/office_chair/meshes/chair_cushion.dae</uri>
+              <uri>model://office_chair/meshes/chair_cushion.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -4692,7 +4692,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/office_chair/meshes/chair_cushion.dae</uri>
+              <uri>model://office_chair/meshes/chair_cushion.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -4724,7 +4724,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/office_chair/meshes/chair_wheels.dae</uri>
+              <uri>model://office_chair/meshes/chair_wheels.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -4747,7 +4747,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/office_chair/meshes/chair_wheels.dae</uri>
+              <uri>model://office_chair/meshes/chair_wheels.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -4774,7 +4774,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/office_chair/meshes/chair_wheels.dae</uri>
+              <uri>model://office_chair/meshes/chair_wheels.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -4797,7 +4797,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/office_chair/meshes/chair_wheels.dae</uri>
+              <uri>model://office_chair/meshes/chair_wheels.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -4824,7 +4824,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/office_chair/meshes/chair_wheels.dae</uri>
+              <uri>model://office_chair/meshes/chair_wheels.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -4847,7 +4847,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/office_chair/meshes/chair_wheels.dae</uri>
+              <uri>model://office_chair/meshes/chair_wheels.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -4874,7 +4874,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/office_chair/meshes/chair_wheels.dae</uri>
+              <uri>model://office_chair/meshes/chair_wheels.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -4897,7 +4897,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/office_chair/meshes/chair_wheels.dae</uri>
+              <uri>model://office_chair/meshes/chair_wheels.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -4924,7 +4924,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/office_chair/meshes/chair_wheels.dae</uri>
+              <uri>model://office_chair/meshes/chair_wheels.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -4947,7 +4947,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/office_chair/meshes/chair_wheels.dae</uri>
+              <uri>model://office_chair/meshes/chair_wheels.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -4974,7 +4974,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/office_chair/meshes/chair_base.dae</uri>
+              <uri>model://office_chair/meshes/chair_base.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -4997,7 +4997,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/office_chair/meshes/chair_base.dae</uri>
+              <uri>model://office_chair/meshes/chair_base.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -5024,7 +5024,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/office_chair/meshes/chair_cushion.dae</uri>
+              <uri>model://office_chair/meshes/chair_cushion.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -5044,7 +5044,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/office_chair/meshes/chair_cushion.dae</uri>
+              <uri>model://office_chair/meshes/chair_cushion.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -5074,14 +5074,14 @@
         <visual name='visual'>
           <geometry>
             <mesh>
-              <uri>models/table_conference_2/meshes/base.dae</uri>
+              <uri>model://table_conference_2/meshes/base.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
           <material>
             <script>
-              <uri>models/table_conference_2/materials/scripts</uri>
-              <uri>models/table_conference_2/materials/textures</uri>
+              <uri>model://table_conference_2/materials/scripts</uri>
+              <uri>model://table_conference_2/materials/textures</uri>
               <name>table_conf_2_legs</name>
             </script>
           </material>
@@ -5094,7 +5094,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/table_conference_2/meshes/base.dae</uri>
+              <uri>model://table_conference_2/meshes/base.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -5119,14 +5119,14 @@
         <visual name='visual'>
           <geometry>
             <mesh>
-              <uri>models/table_conference_2/meshes/top.dae</uri>
+              <uri>model://table_conference_2/meshes/top.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
           <material>
             <script>
-              <uri>models/table_conference_2/materials/scripts</uri>
-              <uri>models/table_conference_2/materials/textures</uri>
+              <uri>model://table_conference_2/materials/scripts</uri>
+              <uri>model://table_conference_2/materials/textures</uri>
               <name>table_conf_2_top</name>
             </script>
           </material>
@@ -5139,7 +5139,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/table_conference_2/meshes/top.dae</uri>
+              <uri>model://table_conference_2/meshes/top.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -5164,7 +5164,7 @@
         <visual name='visual'>
           <geometry>
             <mesh>
-              <uri>models/table_conference_2/meshes/glasses.dae</uri>
+              <uri>model://table_conference_2/meshes/glasses.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -5187,7 +5187,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/table_conference_2/meshes/glasses.dae</uri>
+              <uri>model://table_conference_2/meshes/glasses.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -5219,14 +5219,14 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/chair_set_2/meshes/chair_frame.dae</uri>
+              <uri>model://chair_set_2/meshes/chair_frame.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
           <material>
             <script>
-              <uri>models/chair_set_2/materials/scripts</uri>
-              <uri>models/chair_set_2/materials/textures</uri>
+              <uri>model://chair_set_2/materials/scripts</uri>
+              <uri>model://chair_set_2/materials/textures</uri>
               <name>chair_set_2</name>
             </script>
           </material>
@@ -5239,7 +5239,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/chair_set_2/meshes/chair_frame.dae</uri>
+              <uri>model://chair_set_2/meshes/chair_frame.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -5266,14 +5266,14 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/chair_set_2/meshes/chair_cushions.dae</uri>
+              <uri>model://chair_set_2/meshes/chair_cushions.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
           <material>
             <script>
-              <uri>models/chair_set_2/materials/scripts</uri>
-              <uri>models/chair_set_2/materials/textures</uri>
+              <uri>model://chair_set_2/materials/scripts</uri>
+              <uri>model://chair_set_2/materials/textures</uri>
               <name>chair_set_2</name>
             </script>
           </material>
@@ -5286,7 +5286,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/chair_set_2/meshes/chair_cushions.dae</uri>
+              <uri>model://chair_set_2/meshes/chair_cushions.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -5318,14 +5318,14 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/sofa_set_2/meshes/sofa_frame.dae</uri>
+              <uri>model://sofa_set_2/meshes/sofa_frame.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
           <material>
             <script>
-              <uri>models/sofa_set_2/materials/scripts</uri>
-              <uri>models/sofa_set_2/materials/textures</uri>
+              <uri>model://sofa_set_2/materials/scripts</uri>
+              <uri>model://sofa_set_2/materials/textures</uri>
               <name>sofa_set_2</name>
             </script>
           </material>
@@ -5338,7 +5338,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/sofa_set_2/meshes/sofa_frame.dae</uri>
+              <uri>model://sofa_set_2/meshes/sofa_frame.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -5365,14 +5365,14 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/sofa_set_2/meshes/sofa_cushions.dae</uri>
+              <uri>model://sofa_set_2/meshes/sofa_cushions.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
           <material>
             <script>
-              <uri>models/sofa_set_2/materials/scripts</uri>
-              <uri>models/sofa_set_2/materials/textures</uri>
+              <uri>model://sofa_set_2/materials/scripts</uri>
+              <uri>model://sofa_set_2/materials/textures</uri>
               <name>sofa_set_2</name>
             </script>
           </material>
@@ -5385,7 +5385,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/sofa_set_2/meshes/sofa_cushions.dae</uri>
+              <uri>model://sofa_set_2/meshes/sofa_cushions.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -5417,14 +5417,14 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/chair_set_2/meshes/chair_frame.dae</uri>
+              <uri>model://chair_set_2/meshes/chair_frame.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
           <material>
             <script>
-              <uri>models/chair_set_2/materials/scripts</uri>
-              <uri>models/chair_set_2/materials/textures</uri>
+              <uri>model://chair_set_2/materials/scripts</uri>
+              <uri>model://chair_set_2/materials/textures</uri>
               <name>chair_set_2</name>
             </script>
           </material>
@@ -5437,7 +5437,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/chair_set_2/meshes/chair_frame.dae</uri>
+              <uri>model://chair_set_2/meshes/chair_frame.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -5464,14 +5464,14 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/chair_set_2/meshes/chair_cushions.dae</uri>
+              <uri>model://chair_set_2/meshes/chair_cushions.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
           <material>
             <script>
-              <uri>models/chair_set_2/materials/scripts</uri>
-              <uri>models/chair_set_2/materials/textures</uri>
+              <uri>model://chair_set_2/materials/scripts</uri>
+              <uri>model://chair_set_2/materials/textures</uri>
               <name>chair_set_2</name>
             </script>
           </material>
@@ -5484,7 +5484,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/chair_set_2/meshes/chair_cushions.dae</uri>
+              <uri>model://chair_set_2/meshes/chair_cushions.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -5516,14 +5516,14 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/coffee_table_set_1/meshes/table_large_frame.dae</uri>
+              <uri>model://coffee_table_set_1/meshes/table_large_frame.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
           <material>
             <script>
-              <uri>models/coffee_table_set_1/materials/scripts</uri>
-              <uri>models/coffee_table_set_1/materials/textures</uri>
+              <uri>model://coffee_table_set_1/materials/scripts</uri>
+              <uri>model://coffee_table_set_1/materials/textures</uri>
               <name>coffee_table_set_1_frame</name>
             </script>
           </material>
@@ -5536,7 +5536,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/coffee_table_set_1/meshes/table_large_frame.dae</uri>
+              <uri>model://coffee_table_set_1/meshes/table_large_frame.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -5568,8 +5568,8 @@
           </geometry>
           <material>
             <script>
-              <uri>models/coffee_table_set_1/materials/scripts</uri>
-              <uri>models/coffee_table_set_1/materials/textures</uri>
+              <uri>model://coffee_table_set_1/materials/scripts</uri>
+              <uri>model://coffee_table_set_1/materials/textures</uri>
               <name>coffee_table_set_1_surf</name>
             </script>
           </material>
@@ -5613,8 +5613,8 @@
           </geometry>
           <material>
             <script>
-              <uri>models/coffee_table_set_1/materials/scripts</uri>
-              <uri>models/coffee_table_set_1/materials/textures</uri>
+              <uri>model://coffee_table_set_1/materials/scripts</uri>
+              <uri>model://coffee_table_set_1/materials/textures</uri>
               <name>coffee_table_set_1_surf</name>
             </script>
           </material>
@@ -5657,7 +5657,7 @@
         <visual name='visual'>
           <geometry>
             <mesh>
-              <uri>models/table_breakfast/meshes/table3.dae</uri>
+              <uri>model://table_breakfast/meshes/table3.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -5680,7 +5680,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/table_breakfast/meshes/table3.dae</uri>
+              <uri>model://table_breakfast/meshes/table3.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -5712,7 +5712,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/chair_3/meshes/model.dae</uri>
+              <uri>model://chair_3/meshes/model.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -5732,7 +5732,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/chair_3/meshes/model.dae</uri>
+              <uri>model://chair_3/meshes/model.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -5764,7 +5764,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/chair_3/meshes/model.dae</uri>
+              <uri>model://chair_3/meshes/model.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -5784,7 +5784,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/chair_3/meshes/model.dae</uri>
+              <uri>model://chair_3/meshes/model.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -5814,14 +5814,14 @@
         <visual name='visual'>
           <geometry>
             <mesh>
-              <uri>models/file_cabinet_small/meshes/model.dae</uri>
+              <uri>model://file_cabinet_small/meshes/model.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
           <material>
             <script>
-              <uri>models/file_cabinet_small/materials/scripts</uri>
-              <uri>models/file_cabinet_small/materials/textures</uri>
+              <uri>model://file_cabinet_small/materials/scripts</uri>
+              <uri>model://file_cabinet_small/materials/textures</uri>
               <name>file_black</name>
             </script>
           </material>
@@ -5834,7 +5834,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/file_cabinet_small/meshes/model.dae</uri>
+              <uri>model://file_cabinet_small/meshes/model.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -5866,14 +5866,14 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/side_table_set_1/meshes/table_small_frame.dae</uri>
+              <uri>model://side_table_set_1/meshes/table_small_frame.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
           <material>
             <script>
-              <uri>models/side_table_set_1/materials/scripts</uri>
-              <uri>models/side_table_set_1/materials/textures</uri>
+              <uri>model://side_table_set_1/materials/scripts</uri>
+              <uri>model://side_table_set_1/materials/textures</uri>
               <name>side_table_set_1_frame</name>
             </script>
           </material>
@@ -5886,7 +5886,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/side_table_set_1/meshes/table_small_frame.dae</uri>
+              <uri>model://side_table_set_1/meshes/table_small_frame.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -5918,8 +5918,8 @@
           </geometry>
           <material>
             <script>
-              <uri>models/side_table_set_1/materials/scripts</uri>
-              <uri>models/side_table_set_1/materials/textures</uri>
+              <uri>model://side_table_set_1/materials/scripts</uri>
+              <uri>model://side_table_set_1/materials/textures</uri>
               <name>side_table_set_1_surf</name>
             </script>
           </material>
@@ -5963,8 +5963,8 @@
           </geometry>
           <material>
             <script>
-              <uri>models/side_table_set_1/materials/scripts</uri>
-              <uri>models/side_table_set_1/materials/textures</uri>
+              <uri>model://side_table_set_1/materials/scripts</uri>
+              <uri>model://side_table_set_1/materials/textures</uri>
               <name>side_table_set_1_surf</name>
             </script>
           </material>
@@ -6008,14 +6008,14 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/side_table_set_1/meshes/table_small_frame.dae</uri>
+              <uri>model://side_table_set_1/meshes/table_small_frame.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
           <material>
             <script>
-              <uri>models/side_table_set_1/materials/scripts</uri>
-              <uri>models/side_table_set_1/materials/textures</uri>
+              <uri>model://side_table_set_1/materials/scripts</uri>
+              <uri>model://side_table_set_1/materials/textures</uri>
               <name>side_table_set_1_frame</name>
             </script>
           </material>
@@ -6028,7 +6028,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/side_table_set_1/meshes/table_small_frame.dae</uri>
+              <uri>model://side_table_set_1/meshes/table_small_frame.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -6060,8 +6060,8 @@
           </geometry>
           <material>
             <script>
-              <uri>models/side_table_set_1/materials/scripts</uri>
-              <uri>models/side_table_set_1/materials/textures</uri>
+              <uri>model://side_table_set_1/materials/scripts</uri>
+              <uri>model://side_table_set_1/materials/textures</uri>
               <name>side_table_set_1_surf</name>
             </script>
           </material>
@@ -6105,8 +6105,8 @@
           </geometry>
           <material>
             <script>
-              <uri>models/side_table_set_1/materials/scripts</uri>
-              <uri>models/side_table_set_1/materials/textures</uri>
+              <uri>model://side_table_set_1/materials/scripts</uri>
+              <uri>model://side_table_set_1/materials/textures</uri>
               <name>side_table_set_1_surf</name>
             </script>
           </material>
@@ -6150,14 +6150,14 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/side_table_1/meshes/middle.dae</uri>
+              <uri>model://side_table_1/meshes/middle.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
           <material>
             <script>
-              <uri>models/side_table_1/materials/scripts</uri>
-              <uri>models/side_table_1/materials/textures</uri>
+              <uri>model://side_table_1/materials/scripts</uri>
+              <uri>model://side_table_1/materials/textures</uri>
               <name>side_table_1</name>
             </script>
           </material>
@@ -6170,7 +6170,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/side_table_1/meshes/middle.dae</uri>
+              <uri>model://side_table_1/meshes/middle.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -6197,14 +6197,14 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/side_table_1/meshes/leg.dae</uri>
+              <uri>model://side_table_1/meshes/leg.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
           <material>
             <script>
-              <uri>models/side_table_1/materials/scripts</uri>
-              <uri>models/side_table_1/materials/textures</uri>
+              <uri>model://side_table_1/materials/scripts</uri>
+              <uri>model://side_table_1/materials/textures</uri>
               <name>side_table_1</name>
             </script>
           </material>
@@ -6217,7 +6217,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/side_table_1/meshes/leg.dae</uri>
+              <uri>model://side_table_1/meshes/leg.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -6244,14 +6244,14 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/side_table_1/meshes/leg.dae</uri>
+              <uri>model://side_table_1/meshes/leg.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
           <material>
             <script>
-              <uri>models/side_table_1/materials/scripts</uri>
-              <uri>models/side_table_1/materials/textures</uri>
+              <uri>model://side_table_1/materials/scripts</uri>
+              <uri>model://side_table_1/materials/textures</uri>
               <name>side_table_1</name>
             </script>
           </material>
@@ -6264,7 +6264,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/side_table_1/meshes/leg.dae</uri>
+              <uri>model://side_table_1/meshes/leg.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -6291,14 +6291,14 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/side_table_1/meshes/leg.dae</uri>
+              <uri>model://side_table_1/meshes/leg.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
           <material>
             <script>
-              <uri>models/side_table_1/materials/scripts</uri>
-              <uri>models/side_table_1/materials/textures</uri>
+              <uri>model://side_table_1/materials/scripts</uri>
+              <uri>model://side_table_1/materials/textures</uri>
               <name>side_table_1</name>
             </script>
           </material>
@@ -6311,7 +6311,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/side_table_1/meshes/leg.dae</uri>
+              <uri>model://side_table_1/meshes/leg.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -6338,14 +6338,14 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/side_table_1/meshes/leg.dae</uri>
+              <uri>model://side_table_1/meshes/leg.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
           <material>
             <script>
-              <uri>models/side_table_1/materials/scripts</uri>
-              <uri>models/side_table_1/materials/textures</uri>
+              <uri>model://side_table_1/materials/scripts</uri>
+              <uri>model://side_table_1/materials/textures</uri>
               <name>side_table_1</name>
             </script>
           </material>
@@ -6358,7 +6358,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/side_table_1/meshes/leg.dae</uri>
+              <uri>model://side_table_1/meshes/leg.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -6390,7 +6390,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/monitor_1/meshes/frame.dae</uri>
+              <uri>model://monitor_1/meshes/frame.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -6413,7 +6413,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/monitor_1/meshes/frame.dae</uri>
+              <uri>model://monitor_1/meshes/frame.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -6440,14 +6440,14 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/monitor_1/meshes/screen1.dae</uri>
+              <uri>model://monitor_1/meshes/screen1.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
           <material>
             <script>
-              <uri>models/monitor_1/materials/scripts</uri>
-              <uri>models/monitor_1/materials/textures</uri>
+              <uri>model://monitor_1/materials/scripts</uri>
+              <uri>model://monitor_1/materials/textures</uri>
               <name>monitor_screen</name>
             </script>
           </material>
@@ -6460,7 +6460,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/monitor_1/meshes/screen1.dae</uri>
+              <uri>model://monitor_1/meshes/screen1.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -6492,7 +6492,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/monitor_2/meshes/frame.dae</uri>
+              <uri>model://monitor_2/meshes/frame.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -6515,7 +6515,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/monitor_2/meshes/frame.dae</uri>
+              <uri>model://monitor_2/meshes/frame.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -6542,14 +6542,14 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/monitor_2/meshes/screen1.dae</uri>
+              <uri>model://monitor_2/meshes/screen1.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
           <material>
             <script>
-              <uri>models/monitor_2/materials/scripts</uri>
-              <uri>models/monitor_2/materials/textures</uri>
+              <uri>model://monitor_2/materials/scripts</uri>
+              <uri>model://monitor_2/materials/textures</uri>
               <name>monitor_screen_2</name>
             </script>
           </material>
@@ -6562,7 +6562,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/monitor_2/meshes/screen1.dae</uri>
+              <uri>model://monitor_2/meshes/screen1.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -6594,7 +6594,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/monitor_3/meshes/frame.dae</uri>
+              <uri>model://monitor_3/meshes/frame.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -6617,7 +6617,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/monitor_3/meshes/frame.dae</uri>
+              <uri>model://monitor_3/meshes/frame.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -6644,14 +6644,14 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/monitor_3/meshes/screen1.dae</uri>
+              <uri>model://monitor_3/meshes/screen1.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
           <material>
             <script>
-              <uri>models/monitor_3/materials/scripts</uri>
-              <uri>models/monitor_3/materials/textures</uri>
+              <uri>model://monitor_3/materials/scripts</uri>
+              <uri>model://monitor_3/materials/textures</uri>
               <name>monitor_screen_3</name>
             </script>
           </material>
@@ -6664,7 +6664,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/monitor_3/meshes/screen1.dae</uri>
+              <uri>model://monitor_3/meshes/screen1.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -6695,7 +6695,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/computer_case/meshes/case.dae</uri>
+              <uri>model://computer_case/meshes/case.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -6717,7 +6717,7 @@
           <max_contacts>10</max_contacts>
           <geometry>
             <mesh>
-              <uri>models/computer_case/meshes/case.dae</uri>
+              <uri>model://computer_case/meshes/case.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -6748,7 +6748,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/computer_case/meshes/case.dae</uri>
+              <uri>model://computer_case/meshes/case.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -6770,7 +6770,7 @@
           <max_contacts>10</max_contacts>
           <geometry>
             <mesh>
-              <uri>models/computer_case/meshes/case.dae</uri>
+              <uri>model://computer_case/meshes/case.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -6801,7 +6801,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/computer_case/meshes/case.dae</uri>
+              <uri>model://computer_case/meshes/case.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -6823,7 +6823,7 @@
           <max_contacts>10</max_contacts>
           <geometry>
             <mesh>
-              <uri>models/computer_case/meshes/case.dae</uri>
+              <uri>model://computer_case/meshes/case.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -6855,7 +6855,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/keyboard/meshes/letters.dae</uri>
+              <uri>model://keyboard/meshes/letters.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -6878,7 +6878,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/keyboard/meshes/letters.dae</uri>
+              <uri>model://keyboard/meshes/letters.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -6905,7 +6905,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/keyboard/meshes/key_1.dae</uri>
+              <uri>model://keyboard/meshes/key_1.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -6928,7 +6928,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/keyboard/meshes/key_1.dae</uri>
+              <uri>model://keyboard/meshes/key_1.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -6960,7 +6960,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/keyboard/meshes/letters.dae</uri>
+              <uri>model://keyboard/meshes/letters.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -6983,7 +6983,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/keyboard/meshes/letters.dae</uri>
+              <uri>model://keyboard/meshes/letters.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -7010,7 +7010,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/keyboard/meshes/key_1.dae</uri>
+              <uri>model://keyboard/meshes/key_1.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -7033,7 +7033,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/keyboard/meshes/key_1.dae</uri>
+              <uri>model://keyboard/meshes/key_1.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -7063,7 +7063,7 @@
         <visual name='visual'>
           <geometry>
             <mesh>
-              <uri>models/mouse/meshes/mouse.dae</uri>
+              <uri>model://mouse/meshes/mouse.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -7086,7 +7086,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/mouse/meshes/mouse.dae</uri>
+              <uri>model://mouse/meshes/mouse.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -7116,7 +7116,7 @@
         <visual name='visual'>
           <geometry>
             <mesh>
-              <uri>models/mouse/meshes/mouse.dae</uri>
+              <uri>model://mouse/meshes/mouse.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -7139,7 +7139,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/mouse/meshes/mouse.dae</uri>
+              <uri>model://mouse/meshes/mouse.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -7169,7 +7169,7 @@
         <visual name='visual'>
           <geometry>
             <mesh>
-              <uri>models/mouse/meshes/mouse.dae</uri>
+              <uri>model://mouse/meshes/mouse.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -7192,7 +7192,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/mouse/meshes/mouse.dae</uri>
+              <uri>model://mouse/meshes/mouse.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -7224,7 +7224,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/keyboard/meshes/letters.dae</uri>
+              <uri>model://keyboard/meshes/letters.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -7247,7 +7247,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/keyboard/meshes/letters.dae</uri>
+              <uri>model://keyboard/meshes/letters.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -7274,7 +7274,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/keyboard/meshes/key_1.dae</uri>
+              <uri>model://keyboard/meshes/key_1.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -7297,7 +7297,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/keyboard/meshes/key_1.dae</uri>
+              <uri>model://keyboard/meshes/key_1.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -7328,7 +7328,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/laptop_pc_1/meshes/body.dae</uri>
+              <uri>model://laptop_pc_1/meshes/body.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -7352,7 +7352,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/laptop_pc_1/meshes/body.dae</uri>
+              <uri>model://laptop_pc_1/meshes/body.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -7378,7 +7378,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/laptop_pc_1/meshes/bottom.dae</uri>
+              <uri>model://laptop_pc_1/meshes/bottom.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -7402,7 +7402,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/laptop_pc_1/meshes/bottom.dae</uri>
+              <uri>model://laptop_pc_1/meshes/bottom.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -7428,7 +7428,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/laptop_pc_1/meshes/keys.dae</uri>
+              <uri>model://laptop_pc_1/meshes/keys.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -7452,7 +7452,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/laptop_pc_1/meshes/keys.dae</uri>
+              <uri>model://laptop_pc_1/meshes/keys.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -7478,7 +7478,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/laptop_pc_1/meshes/letters.dae</uri>
+              <uri>model://laptop_pc_1/meshes/letters.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -7502,7 +7502,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/laptop_pc_1/meshes/letters.dae</uri>
+              <uri>model://laptop_pc_1/meshes/letters.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -7528,14 +7528,14 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/laptop_pc_1/meshes/lines.dae</uri>
+              <uri>model://laptop_pc_1/meshes/lines.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
           <material>
             <script>
-              <uri>models/laptop_pc_1/materials/scripts</uri>
-              <uri>models/laptop_pc_1/materials/textures</uri>
+              <uri>model://laptop_pc_1/materials/scripts</uri>
+              <uri>model://laptop_pc_1/materials/textures</uri>
               <name>laptop_pc_lines</name>
             </script>
           </material>
@@ -7548,7 +7548,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/laptop_pc_1/meshes/lines.dae</uri>
+              <uri>model://laptop_pc_1/meshes/lines.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -7579,8 +7579,8 @@
           </geometry>
           <material>
             <script>
-              <uri>models/laptop_pc_1/materials/scripts</uri>
-              <uri>models/laptop_pc_1/materials/textures</uri>
+              <uri>model://laptop_pc_1/materials/scripts</uri>
+              <uri>model://laptop_pc_1/materials/textures</uri>
               <name>laptop_pc_screen_1</name>
             </script>
           </material>
@@ -7593,7 +7593,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/laptop_pc_1/meshes/screen.dae</uri>
+              <uri>model://laptop_pc_1/meshes/screen.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -7618,14 +7618,14 @@
         <visual name='visual'>
           <geometry>
             <mesh>
-              <uri>models/laptop_pc_1/meshes/silver.dae</uri>
+              <uri>model://laptop_pc_1/meshes/silver.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
           <material>
             <script>
-              <uri>models/laptop_pc_1/materials/scripts</uri>
-              <uri>models/laptop_pc_1/materials/textures</uri>
+              <uri>model://laptop_pc_1/materials/scripts</uri>
+              <uri>model://laptop_pc_1/materials/textures</uri>
               <name>laptop_pc_silver</name>
             </script>
           </material>
@@ -7638,7 +7638,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/laptop_pc_1/meshes/silver.dae</uri>
+              <uri>model://laptop_pc_1/meshes/silver.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -7670,7 +7670,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/labtop_mac_2/meshes/body.dae</uri>
+              <uri>model://labtop_mac_2/meshes/body.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -7693,7 +7693,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/labtop_mac_2/meshes/body.dae</uri>
+              <uri>model://labtop_mac_2/meshes/body.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -7720,7 +7720,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/labtop_mac_2/meshes/keys.dae</uri>
+              <uri>model://labtop_mac_2/meshes/keys.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -7743,7 +7743,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/labtop_mac_2/meshes/keys.dae</uri>
+              <uri>model://labtop_mac_2/meshes/keys.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -7769,14 +7769,14 @@
         <visual name='visual'>
           <geometry>
             <mesh>
-              <uri>models/labtop_mac_2/meshes/screen.dae</uri>
+              <uri>model://labtop_mac_2/meshes/screen.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
           <material>
             <script>
-              <uri>models/labtop_mac_2/materials/scripts</uri>
-              <uri>models/labtop_mac_2/materials/textures</uri>
+              <uri>model://labtop_mac_2/materials/scripts</uri>
+              <uri>model://labtop_mac_2/materials/textures</uri>
               <name>labtop_screen_2</name>
             </script>
           </material>
@@ -7789,7 +7789,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/labtop_mac_2/meshes/screen.dae</uri>
+              <uri>model://labtop_mac_2/meshes/screen.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -7821,14 +7821,14 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/picture_frame_large_2/meshes/frame.dae</uri>
+              <uri>model://picture_frame_large_2/meshes/frame.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
           <material>
             <script>
-              <uri>models/picture_frame_large_2/materials/scripts</uri>
-              <uri>models/picture_frame_large_2/materials/textures</uri>
+              <uri>model://picture_frame_large_2/materials/scripts</uri>
+              <uri>model://picture_frame_large_2/materials/textures</uri>
               <name>frame_text</name>
             </script>
           </material>
@@ -7841,7 +7841,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/picture_frame_large_2/meshes/frame.dae</uri>
+              <uri>model://picture_frame_large_2/meshes/frame.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -7871,14 +7871,14 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/picture_frame_large_2/meshes/center.dae</uri>
+              <uri>model://picture_frame_large_2/meshes/center.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
           <material>
             <script>
-              <uri>models/picture_frame_large_2/materials/scripts</uri>
-              <uri>models/picture_frame_large_2/materials/textures</uri>
+              <uri>model://picture_frame_large_2/materials/scripts</uri>
+              <uri>model://picture_frame_large_2/materials/textures</uri>
               <name>pic_frame_large_2</name>
             </script>
           </material>
@@ -7891,7 +7891,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/picture_frame_large_2/meshes/center.dae</uri>
+              <uri>model://picture_frame_large_2/meshes/center.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -7920,14 +7920,14 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/picture_frame_large_7/meshes/frame.dae</uri>
+              <uri>model://picture_frame_large_7/meshes/frame.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
           <material>
             <script>
-              <uri>models/picture_frame_large_7/materials/scripts</uri>
-              <uri>models/picture_frame_large_7/materials/textures</uri>
+              <uri>model://picture_frame_large_7/materials/scripts</uri>
+              <uri>model://picture_frame_large_7/materials/textures</uri>
               <name>frame_text</name>
             </script>
           </material>
@@ -7940,7 +7940,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/picture_frame_large_7/meshes/frame.dae</uri>
+              <uri>model://picture_frame_large_7/meshes/frame.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -7970,14 +7970,14 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/picture_frame_large_7/meshes/center.dae</uri>
+              <uri>model://picture_frame_large_7/meshes/center.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
           <material>
             <script>
-              <uri>models/picture_frame_large_7/materials/scripts</uri>
-              <uri>models/picture_frame_large_7/materials/textures</uri>
+              <uri>model://picture_frame_large_7/materials/scripts</uri>
+              <uri>model://picture_frame_large_7/materials/textures</uri>
               <name>pic_frame_large_7</name>
             </script>
           </material>
@@ -7990,7 +7990,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/picture_frame_large_7/meshes/center.dae</uri>
+              <uri>model://picture_frame_large_7/meshes/center.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -8019,14 +8019,14 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/picture_frame_large_1/meshes/frame.dae</uri>
+              <uri>model://picture_frame_large_1/meshes/frame.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
           <material>
             <script>
-              <uri>models/picture_frame_large_1/materials/scripts</uri>
-              <uri>models/picture_frame_large_1/materials/textures</uri>
+              <uri>model://picture_frame_large_1/materials/scripts</uri>
+              <uri>model://picture_frame_large_1/materials/textures</uri>
               <name>frame_text</name>
             </script>
           </material>
@@ -8039,7 +8039,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/picture_frame_large_1/meshes/frame.dae</uri>
+              <uri>model://picture_frame_large_1/meshes/frame.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -8069,14 +8069,14 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/picture_frame_large_1/meshes/center.dae</uri>
+              <uri>model://picture_frame_large_1/meshes/center.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
           <material>
             <script>
-              <uri>models/picture_frame_large_1/materials/scripts</uri>
-              <uri>models/picture_frame_large_1/materials/textures</uri>
+              <uri>model://picture_frame_large_1/materials/scripts</uri>
+              <uri>model://picture_frame_large_1/materials/textures</uri>
               <name>pic_frame_large</name>
             </script>
           </material>
@@ -8089,7 +8089,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/picture_frame_large_1/meshes/center.dae</uri>
+              <uri>model://picture_frame_large_1/meshes/center.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -8118,14 +8118,14 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/picture_frame_large_6/meshes/frame.dae</uri>
+              <uri>model://picture_frame_large_6/meshes/frame.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
           <material>
             <script>
-              <uri>models/picture_frame_large_6/materials/scripts</uri>
-              <uri>models/picture_frame_large_6/materials/textures</uri>
+              <uri>model://picture_frame_large_6/materials/scripts</uri>
+              <uri>model://picture_frame_large_6/materials/textures</uri>
               <name>frame_text</name>
             </script>
           </material>
@@ -8138,7 +8138,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/picture_frame_large_6/meshes/frame.dae</uri>
+              <uri>model://picture_frame_large_6/meshes/frame.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -8168,14 +8168,14 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/picture_frame_large_6/meshes/center.dae</uri>
+              <uri>model://picture_frame_large_6/meshes/center.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
           <material>
             <script>
-              <uri>models/picture_frame_large_6/materials/scripts</uri>
-              <uri>models/picture_frame_large_6/materials/textures</uri>
+              <uri>model://picture_frame_large_6/materials/scripts</uri>
+              <uri>model://picture_frame_large_6/materials/textures</uri>
               <name>pic_frame_large_6</name>
             </script>
           </material>
@@ -8188,7 +8188,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/picture_frame_large_6/meshes/center.dae</uri>
+              <uri>model://picture_frame_large_6/meshes/center.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -8481,8 +8481,8 @@
           </geometry>
           <material>
             <script>
-              <uri>models/book_10/materials/scripts</uri>
-              <uri>models/book_10/materials/textures</uri>
+              <uri>model://book_10/materials/scripts</uri>
+              <uri>model://book_10/materials/textures</uri>
               <name>book_10</name>
             </script>
           </material>
@@ -8577,8 +8577,8 @@
           </geometry>
           <material>
             <script>
-              <uri>models/book_1/materials/scripts</uri>
-              <uri>models/book_1/materials/textures</uri>
+              <uri>model://book_1/materials/scripts</uri>
+              <uri>model://book_1/materials/textures</uri>
               <name>book_1</name>
             </script>
           </material>
@@ -8673,8 +8673,8 @@
           </geometry>
           <material>
             <script>
-              <uri>models/book_12/materials/scripts</uri>
-              <uri>models/book_12/materials/textures</uri>
+              <uri>model://book_12/materials/scripts</uri>
+              <uri>model://book_12/materials/textures</uri>
               <name>book_12</name>
             </script>
           </material>
@@ -8769,8 +8769,8 @@
           </geometry>
           <material>
             <script>
-              <uri>models/book_14/materials/scripts</uri>
-              <uri>models/book_14/materials/textures</uri>
+              <uri>model://book_14/materials/scripts</uri>
+              <uri>model://book_14/materials/textures</uri>
               <name>book_14</name>
             </script>
           </material>
@@ -8865,8 +8865,8 @@
           </geometry>
           <material>
             <script>
-              <uri>models/book_17/materials/scripts</uri>
-              <uri>models/book_17/materials/textures</uri>
+              <uri>model://book_17/materials/scripts</uri>
+              <uri>model://book_17/materials/textures</uri>
               <name>book_17</name>
             </script>
           </material>
@@ -8961,8 +8961,8 @@
           </geometry>
           <material>
             <script>
-              <uri>models/book_8/materials/scripts</uri>
-              <uri>models/book_8/materials/textures</uri>
+              <uri>model://book_8/materials/scripts</uri>
+              <uri>model://book_8/materials/textures</uri>
               <name>book_8</name>
             </script>
           </material>
@@ -9057,8 +9057,8 @@
           </geometry>
           <material>
             <script>
-              <uri>models/book_9/materials/scripts</uri>
-              <uri>models/book_9/materials/textures</uri>
+              <uri>model://book_9/materials/scripts</uri>
+              <uri>model://book_9/materials/textures</uri>
               <name>book_9</name>
             </script>
           </material>
@@ -9153,8 +9153,8 @@
           </geometry>
           <material>
             <script>
-              <uri>models/book_18/materials/scripts</uri>
-              <uri>models/book_18/materials/textures</uri>
+              <uri>model://book_18/materials/scripts</uri>
+              <uri>model://book_18/materials/textures</uri>
               <name>book_18</name>
             </script>
           </material>
@@ -9249,8 +9249,8 @@
           </geometry>
           <material>
             <script>
-              <uri>models/book_16/materials/scripts</uri>
-              <uri>models/book_16/materials/textures</uri>
+              <uri>model://book_16/materials/scripts</uri>
+              <uri>model://book_16/materials/textures</uri>
               <name>book_16</name>
             </script>
           </material>
@@ -9336,7 +9336,7 @@
         <visual name='visual'>
           <geometry>
             <mesh>
-              <uri>models/file_1/meshes/body.dae</uri>
+              <uri>model://file_1/meshes/body.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -9355,7 +9355,7 @@
           <max_contacts>10</max_contacts>
           <geometry>
             <mesh>
-              <uri>models/file_1/meshes/body.dae</uri>
+              <uri>model://file_1/meshes/body.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -9380,7 +9380,7 @@
         <visual name='visual'>
           <geometry>
             <mesh>
-              <uri>models/file_1/meshes/ring.dae</uri>
+              <uri>model://file_1/meshes/ring.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -9396,7 +9396,7 @@
         <collision name='collision'>
           <geometry>
             <mesh>
-              <uri>models/file_1/meshes/ring.dae</uri>
+              <uri>model://file_1/meshes/ring.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -9422,7 +9422,7 @@
         <visual name='visual'>
           <geometry>
             <mesh>
-              <uri>models/file_1/meshes/tag.dae</uri>
+              <uri>model://file_1/meshes/tag.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -9441,7 +9441,7 @@
           <max_contacts>10</max_contacts>
           <geometry>
             <mesh>
-              <uri>models/file_1/meshes/tag.dae</uri>
+              <uri>model://file_1/meshes/tag.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -9471,7 +9471,7 @@
         <visual name='visual'>
           <geometry>
             <mesh>
-              <uri>models/file_1/meshes/body.dae</uri>
+              <uri>model://file_1/meshes/body.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -9490,7 +9490,7 @@
           <max_contacts>10</max_contacts>
           <geometry>
             <mesh>
-              <uri>models/file_1/meshes/body.dae</uri>
+              <uri>model://file_1/meshes/body.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -9515,7 +9515,7 @@
         <visual name='visual'>
           <geometry>
             <mesh>
-              <uri>models/file_1/meshes/ring.dae</uri>
+              <uri>model://file_1/meshes/ring.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -9531,7 +9531,7 @@
         <collision name='collision'>
           <geometry>
             <mesh>
-              <uri>models/file_1/meshes/ring.dae</uri>
+              <uri>model://file_1/meshes/ring.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -9557,7 +9557,7 @@
         <visual name='visual'>
           <geometry>
             <mesh>
-              <uri>models/file_1/meshes/tag.dae</uri>
+              <uri>model://file_1/meshes/tag.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -9576,7 +9576,7 @@
           <max_contacts>10</max_contacts>
           <geometry>
             <mesh>
-              <uri>models/file_1/meshes/tag.dae</uri>
+              <uri>model://file_1/meshes/tag.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -9606,7 +9606,7 @@
         <visual name='visual'>
           <geometry>
             <mesh>
-              <uri>models/file_1/meshes/body.dae</uri>
+              <uri>model://file_1/meshes/body.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -9625,7 +9625,7 @@
           <max_contacts>10</max_contacts>
           <geometry>
             <mesh>
-              <uri>models/file_1/meshes/body.dae</uri>
+              <uri>model://file_1/meshes/body.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -9650,7 +9650,7 @@
         <visual name='visual'>
           <geometry>
             <mesh>
-              <uri>models/file_1/meshes/ring.dae</uri>
+              <uri>model://file_1/meshes/ring.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -9666,7 +9666,7 @@
         <collision name='collision'>
           <geometry>
             <mesh>
-              <uri>models/file_1/meshes/ring.dae</uri>
+              <uri>model://file_1/meshes/ring.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -9692,7 +9692,7 @@
         <visual name='visual'>
           <geometry>
             <mesh>
-              <uri>models/file_1/meshes/tag.dae</uri>
+              <uri>model://file_1/meshes/tag.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -9711,7 +9711,7 @@
           <max_contacts>10</max_contacts>
           <geometry>
             <mesh>
-              <uri>models/file_1/meshes/tag.dae</uri>
+              <uri>model://file_1/meshes/tag.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -9741,7 +9741,7 @@
         <visual name='visual'>
           <geometry>
             <mesh>
-              <uri>models/file_1/meshes/body.dae</uri>
+              <uri>model://file_1/meshes/body.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -9760,7 +9760,7 @@
           <max_contacts>10</max_contacts>
           <geometry>
             <mesh>
-              <uri>models/file_1/meshes/body.dae</uri>
+              <uri>model://file_1/meshes/body.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -9785,7 +9785,7 @@
         <visual name='visual'>
           <geometry>
             <mesh>
-              <uri>models/file_1/meshes/ring.dae</uri>
+              <uri>model://file_1/meshes/ring.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -9801,7 +9801,7 @@
         <collision name='collision'>
           <geometry>
             <mesh>
-              <uri>models/file_1/meshes/ring.dae</uri>
+              <uri>model://file_1/meshes/ring.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -9827,7 +9827,7 @@
         <visual name='visual'>
           <geometry>
             <mesh>
-              <uri>models/file_1/meshes/tag.dae</uri>
+              <uri>model://file_1/meshes/tag.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -9846,7 +9846,7 @@
           <max_contacts>10</max_contacts>
           <geometry>
             <mesh>
-              <uri>models/file_1/meshes/tag.dae</uri>
+              <uri>model://file_1/meshes/tag.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -9877,14 +9877,14 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/file_box_3/meshes/body.dae</uri>
+              <uri>model://file_box_3/meshes/body.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
           <material>
             <script>
-              <uri>models/file_box_3/materials/scripts</uri>
-              <uri>models/file_box_3/materials/textures</uri>
+              <uri>model://file_box_3/materials/scripts</uri>
+              <uri>model://file_box_3/materials/textures</uri>
               <name>file_box</name>
             </script>
           </material>
@@ -9897,7 +9897,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/file_box_3/meshes/body.dae</uri>
+              <uri>model://file_box_3/meshes/body.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -9923,7 +9923,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/file_box_3/meshes/ring.dae</uri>
+              <uri>model://file_box_3/meshes/ring.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -9947,7 +9947,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/file_box_3/meshes/ring.dae</uri>
+              <uri>model://file_box_3/meshes/ring.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -9978,7 +9978,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/file_2/meshes/body.dae</uri>
+              <uri>model://file_2/meshes/body.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -9998,7 +9998,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/file_2/meshes/body.dae</uri>
+              <uri>model://file_2/meshes/body.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -10024,14 +10024,14 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/file_2/meshes/metal.dae</uri>
+              <uri>model://file_2/meshes/metal.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
           <material>
             <script>
-              <uri>models/file_2/materials/scripts</uri>
-              <uri>models/file_2/materials/textures</uri>
+              <uri>model://file_2/materials/scripts</uri>
+              <uri>model://file_2/materials/textures</uri>
               <name>file_2_metal</name>
             </script>
           </material>
@@ -10044,7 +10044,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/file_2/meshes/metal.dae</uri>
+              <uri>model://file_2/meshes/metal.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -10070,7 +10070,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/file_2/meshes/tag.dae</uri>
+              <uri>model://file_2/meshes/tag.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -10090,7 +10090,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/file_2/meshes/tag.dae</uri>
+              <uri>model://file_2/meshes/tag.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -10121,7 +10121,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/file_2/meshes/body.dae</uri>
+              <uri>model://file_2/meshes/body.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -10141,7 +10141,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/file_2/meshes/body.dae</uri>
+              <uri>model://file_2/meshes/body.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -10167,14 +10167,14 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/file_2/meshes/metal.dae</uri>
+              <uri>model://file_2/meshes/metal.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
           <material>
             <script>
-              <uri>models/file_2/materials/scripts</uri>
-              <uri>models/file_2/materials/textures</uri>
+              <uri>model://file_2/materials/scripts</uri>
+              <uri>model://file_2/materials/textures</uri>
               <name>file_2_metal</name>
             </script>
           </material>
@@ -10187,7 +10187,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/file_2/meshes/metal.dae</uri>
+              <uri>model://file_2/meshes/metal.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -10213,7 +10213,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/file_2/meshes/tag.dae</uri>
+              <uri>model://file_2/meshes/tag.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -10233,7 +10233,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/file_2/meshes/tag.dae</uri>
+              <uri>model://file_2/meshes/tag.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -10264,7 +10264,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/file_2/meshes/body.dae</uri>
+              <uri>model://file_2/meshes/body.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -10284,7 +10284,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/file_2/meshes/body.dae</uri>
+              <uri>model://file_2/meshes/body.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -10310,14 +10310,14 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/file_2/meshes/metal.dae</uri>
+              <uri>model://file_2/meshes/metal.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
           <material>
             <script>
-              <uri>models/file_2/materials/scripts</uri>
-              <uri>models/file_2/materials/textures</uri>
+              <uri>model://file_2/materials/scripts</uri>
+              <uri>model://file_2/materials/textures</uri>
               <name>file_2_metal</name>
             </script>
           </material>
@@ -10330,7 +10330,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/file_2/meshes/metal.dae</uri>
+              <uri>model://file_2/meshes/metal.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -10356,7 +10356,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/file_2/meshes/tag.dae</uri>
+              <uri>model://file_2/meshes/tag.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -10376,7 +10376,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/file_2/meshes/tag.dae</uri>
+              <uri>model://file_2/meshes/tag.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -10407,7 +10407,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/file_2/meshes/body.dae</uri>
+              <uri>model://file_2/meshes/body.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -10427,7 +10427,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/file_2/meshes/body.dae</uri>
+              <uri>model://file_2/meshes/body.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -10453,14 +10453,14 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/file_2/meshes/metal.dae</uri>
+              <uri>model://file_2/meshes/metal.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
           <material>
             <script>
-              <uri>models/file_2/materials/scripts</uri>
-              <uri>models/file_2/materials/textures</uri>
+              <uri>model://file_2/materials/scripts</uri>
+              <uri>model://file_2/materials/textures</uri>
               <name>file_2_metal</name>
             </script>
           </material>
@@ -10473,7 +10473,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/file_2/meshes/metal.dae</uri>
+              <uri>model://file_2/meshes/metal.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -10499,7 +10499,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/file_2/meshes/tag.dae</uri>
+              <uri>model://file_2/meshes/tag.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -10519,7 +10519,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/file_2/meshes/tag.dae</uri>
+              <uri>model://file_2/meshes/tag.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -10550,7 +10550,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/file_2/meshes/body.dae</uri>
+              <uri>model://file_2/meshes/body.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -10570,7 +10570,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/file_2/meshes/body.dae</uri>
+              <uri>model://file_2/meshes/body.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -10596,14 +10596,14 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/file_2/meshes/metal.dae</uri>
+              <uri>model://file_2/meshes/metal.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
           <material>
             <script>
-              <uri>models/file_2/materials/scripts</uri>
-              <uri>models/file_2/materials/textures</uri>
+              <uri>model://file_2/materials/scripts</uri>
+              <uri>model://file_2/materials/textures</uri>
               <name>file_2_metal</name>
             </script>
           </material>
@@ -10616,7 +10616,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/file_2/meshes/metal.dae</uri>
+              <uri>model://file_2/meshes/metal.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -10642,7 +10642,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/file_2/meshes/tag.dae</uri>
+              <uri>model://file_2/meshes/tag.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -10662,7 +10662,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/file_2/meshes/tag.dae</uri>
+              <uri>model://file_2/meshes/tag.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -10693,14 +10693,14 @@
           <pose frame=''>0 0 -0.003306 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/file_box_4/meshes/body.dae</uri>
+              <uri>model://file_box_4/meshes/body.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
           <material>
             <script>
-              <uri>models/file_box_4/materials/scripts</uri>
-              <uri>models/file_box_4/materials/textures</uri>
+              <uri>model://file_box_4/materials/scripts</uri>
+              <uri>model://file_box_4/materials/textures</uri>
               <name>file_box</name>
             </script>
           </material>
@@ -10713,7 +10713,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/file_box_4/meshes/body.dae</uri>
+              <uri>model://file_box_4/meshes/body.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -10739,7 +10739,7 @@
           <pose frame=''>0 0 -0.003306 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/file_box_4/meshes/ring.dae</uri>
+              <uri>model://file_box_4/meshes/ring.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -10763,7 +10763,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/file_box_4/meshes/ring.dae</uri>
+              <uri>model://file_box_4/meshes/ring.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -10789,7 +10789,7 @@
           <pose frame=''>0 0 -0.003306 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/file_box_4/meshes/tag.dae</uri>
+              <uri>model://file_box_4/meshes/tag.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -10809,7 +10809,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/file_box_4/meshes/tag.dae</uri>
+              <uri>model://file_box_4/meshes/tag.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -10840,14 +10840,14 @@
           <pose frame=''>0 0 -0.003306 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/file_box_4/meshes/body.dae</uri>
+              <uri>model://file_box_4/meshes/body.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
           <material>
             <script>
-              <uri>models/file_box_4/materials/scripts</uri>
-              <uri>models/file_box_4/materials/textures</uri>
+              <uri>model://file_box_4/materials/scripts</uri>
+              <uri>model://file_box_4/materials/textures</uri>
               <name>file_box</name>
             </script>
           </material>
@@ -10860,7 +10860,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/file_box_4/meshes/body.dae</uri>
+              <uri>model://file_box_4/meshes/body.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -10886,7 +10886,7 @@
           <pose frame=''>0 0 -0.003306 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/file_box_4/meshes/ring.dae</uri>
+              <uri>model://file_box_4/meshes/ring.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -10910,7 +10910,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/file_box_4/meshes/ring.dae</uri>
+              <uri>model://file_box_4/meshes/ring.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -10936,7 +10936,7 @@
           <pose frame=''>0 0 -0.003306 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/file_box_4/meshes/tag.dae</uri>
+              <uri>model://file_box_4/meshes/tag.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -10956,7 +10956,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/file_box_4/meshes/tag.dae</uri>
+              <uri>model://file_box_4/meshes/tag.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -10987,14 +10987,14 @@
           <pose frame=''>0 0 -0.003306 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/file_box_4/meshes/body.dae</uri>
+              <uri>model://file_box_4/meshes/body.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
           <material>
             <script>
-              <uri>models/file_box_4/materials/scripts</uri>
-              <uri>models/file_box_4/materials/textures</uri>
+              <uri>model://file_box_4/materials/scripts</uri>
+              <uri>model://file_box_4/materials/textures</uri>
               <name>file_box</name>
             </script>
           </material>
@@ -11007,7 +11007,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/file_box_4/meshes/body.dae</uri>
+              <uri>model://file_box_4/meshes/body.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -11033,7 +11033,7 @@
           <pose frame=''>0 0 -0.003306 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/file_box_4/meshes/ring.dae</uri>
+              <uri>model://file_box_4/meshes/ring.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -11057,7 +11057,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/file_box_4/meshes/ring.dae</uri>
+              <uri>model://file_box_4/meshes/ring.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -11083,7 +11083,7 @@
           <pose frame=''>0 0 -0.003306 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/file_box_4/meshes/tag.dae</uri>
+              <uri>model://file_box_4/meshes/tag.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -11103,7 +11103,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/file_box_4/meshes/tag.dae</uri>
+              <uri>model://file_box_4/meshes/tag.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -11138,8 +11138,8 @@
           </geometry>
           <material>
             <script>
-              <uri>models/newspaper_2/materials/scripts</uri>
-              <uri>models/newspaper_2/materials/textures</uri>
+              <uri>model://newspaper_2/materials/scripts</uri>
+              <uri>model://newspaper_2/materials/textures</uri>
               <name>newspaper_2</name>
             </script>
           </material>
@@ -11182,7 +11182,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/book_open/meshes/cover.dae</uri>
+              <uri>model://book_open/meshes/cover.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -11206,7 +11206,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/book_open/meshes/cover.dae</uri>
+              <uri>model://book_open/meshes/cover.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -11232,14 +11232,14 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/book_open/meshes/open_page.dae</uri>
+              <uri>model://book_open/meshes/open_page.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
           <material>
             <script>
-              <uri>models/book_open/materials/scripts</uri>
-              <uri>models/book_open/materials/textures</uri>
+              <uri>model://book_open/materials/scripts</uri>
+              <uri>model://book_open/materials/textures</uri>
               <name>book_page</name>
             </script>
           </material>
@@ -11252,7 +11252,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/book_open/meshes/open_page.dae</uri>
+              <uri>model://book_open/meshes/open_page.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -11278,7 +11278,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/book_open/meshes/pages.dae</uri>
+              <uri>model://book_open/meshes/pages.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -11302,7 +11302,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/book_open/meshes/pages.dae</uri>
+              <uri>model://book_open/meshes/pages.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -11334,7 +11334,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/pen_black/meshes/body.dae</uri>
+              <uri>model://pen_black/meshes/body.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -11357,7 +11357,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/pen_black/meshes/body.dae</uri>
+              <uri>model://pen_black/meshes/body.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -11384,7 +11384,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/pen_black/meshes/tip.dae</uri>
+              <uri>model://pen_black/meshes/tip.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -11407,7 +11407,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/pen_black/meshes/tip.dae</uri>
+              <uri>model://pen_black/meshes/tip.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -11446,8 +11446,8 @@
           </geometry>
           <material>
             <script>
-              <uri>models/book_3/materials/scripts</uri>
-              <uri>models/book_3/materials/textures</uri>
+              <uri>model://book_3/materials/scripts</uri>
+              <uri>model://book_3/materials/textures</uri>
               <name>book_3</name>
             </script>
           </material>
@@ -11535,7 +11535,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/pencil/meshes/body.dae</uri>
+              <uri>model://pencil/meshes/body.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -11558,7 +11558,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/pencil/meshes/body.dae</uri>
+              <uri>model://pencil/meshes/body.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -11585,7 +11585,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/pencil/meshes/eraser.dae</uri>
+              <uri>model://pencil/meshes/eraser.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -11608,7 +11608,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/pencil/meshes/eraser.dae</uri>
+              <uri>model://pencil/meshes/eraser.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -11635,7 +11635,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/pencil/meshes/head.dae</uri>
+              <uri>model://pencil/meshes/head.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -11658,7 +11658,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/pencil/meshes/head.dae</uri>
+              <uri>model://pencil/meshes/head.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -11685,7 +11685,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/pencil/meshes/silver.dae</uri>
+              <uri>model://pencil/meshes/silver.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -11708,7 +11708,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/pencil/meshes/silver.dae</uri>
+              <uri>model://pencil/meshes/silver.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -11735,7 +11735,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/pencil/meshes/tip.dae</uri>
+              <uri>model://pencil/meshes/tip.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -11758,7 +11758,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/pencil/meshes/tip.dae</uri>
+              <uri>model://pencil/meshes/tip.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -11790,7 +11790,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/picture_frame_small_4/meshes/frame.dae</uri>
+              <uri>model://picture_frame_small_4/meshes/frame.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -11810,7 +11810,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/picture_frame_small_4/meshes/frame.dae</uri>
+              <uri>model://picture_frame_small_4/meshes/frame.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -11836,14 +11836,14 @@
         <visual name='visual'>
           <geometry>
             <mesh>
-              <uri>models/picture_frame_small_4/meshes/inside.dae</uri>
+              <uri>model://picture_frame_small_4/meshes/inside.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
           <material>
             <script>
-              <uri>models/picture_frame_small_4/materials/scripts</uri>
-              <uri>models/picture_frame_small_4/materials/textures</uri>
+              <uri>model://picture_frame_small_4/materials/scripts</uri>
+              <uri>model://picture_frame_small_4/materials/textures</uri>
               <name>pic_frame_small_4</name>
             </script>
           </material>
@@ -11856,7 +11856,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/picture_frame_small_4/meshes/inside.dae</uri>
+              <uri>model://picture_frame_small_4/meshes/inside.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -11895,8 +11895,8 @@
           </geometry>
           <material>
             <script>
-              <uri>models/book_19/materials/scripts</uri>
-              <uri>models/book_19/materials/textures</uri>
+              <uri>model://book_19/materials/scripts</uri>
+              <uri>model://book_19/materials/textures</uri>
               <name>book_19</name>
             </script>
           </material>
@@ -11983,7 +11983,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/pen_red/meshes/pen3.dae</uri>
+              <uri>model://pen_red/meshes/pen3.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -12006,7 +12006,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/pen_red/meshes/pen3.dae</uri>
+              <uri>model://pen_red/meshes/pen3.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -12038,7 +12038,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/trash_bin/meshes/outer.dae</uri>
+              <uri>model://trash_bin/meshes/outer.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -12061,7 +12061,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/trash_bin/meshes/outer.dae</uri>
+              <uri>model://trash_bin/meshes/outer.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -12088,7 +12088,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/trash_bin/meshes/inner.dae</uri>
+              <uri>model://trash_bin/meshes/inner.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -12111,7 +12111,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/trash_bin/meshes/inner.dae</uri>
+              <uri>model://trash_bin/meshes/inner.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -12143,7 +12143,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/cup_paper/meshes/base.dae</uri>
+              <uri>model://cup_paper/meshes/base.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -12163,7 +12163,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/cup_paper/meshes/base.dae</uri>
+              <uri>model://cup_paper/meshes/base.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -12190,7 +12190,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/cup_paper/meshes/lid.dae</uri>
+              <uri>model://cup_paper/meshes/lid.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -12210,7 +12210,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/cup_paper/meshes/lid.dae</uri>
+              <uri>model://cup_paper/meshes/lid.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -12240,14 +12240,14 @@
         <visual name='visual'>
           <geometry>
             <mesh>
-              <uri>models/coffee_machine/meshes/body.dae</uri>
+              <uri>model://coffee_machine/meshes/body.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
           <material>
             <script>
-              <uri>models/coffee_machine/materials/scripts</uri>
-              <uri>models/coffee_machine/materials/textures</uri>
+              <uri>model://coffee_machine/materials/scripts</uri>
+              <uri>model://coffee_machine/materials/textures</uri>
               <name>coffee_body</name>
             </script>
           </material>
@@ -12260,7 +12260,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/coffee_machine/meshes/body.dae</uri>
+              <uri>model://coffee_machine/meshes/body.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -12286,14 +12286,14 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/coffee_machine/meshes/panel.dae</uri>
+              <uri>model://coffee_machine/meshes/panel.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
           <material>
             <script>
-              <uri>models/coffee_machine/materials/scripts</uri>
-              <uri>models/coffee_machine/materials/textures</uri>
+              <uri>model://coffee_machine/materials/scripts</uri>
+              <uri>model://coffee_machine/materials/textures</uri>
               <name>coffee_panel</name>
             </script>
           </material>
@@ -12306,7 +12306,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/coffee_machine/meshes/panel.dae</uri>
+              <uri>model://coffee_machine/meshes/panel.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -12332,14 +12332,14 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/coffee_machine/meshes/sivler.dae</uri>
+              <uri>model://coffee_machine/meshes/sivler.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
           <material>
             <script>
-              <uri>models/coffee_machine/materials/scripts</uri>
-              <uri>models/coffee_machine/materials/textures</uri>
+              <uri>model://coffee_machine/materials/scripts</uri>
+              <uri>model://coffee_machine/materials/textures</uri>
               <name>coffee_shaft</name>
             </script>
           </material>
@@ -12352,7 +12352,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/coffee_machine/meshes/sivler.dae</uri>
+              <uri>model://coffee_machine/meshes/sivler.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -12378,14 +12378,14 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/coffee_machine/meshes/drain.dae</uri>
+              <uri>model://coffee_machine/meshes/drain.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
           <material>
             <script>
-              <uri>models/coffee_machine/materials/scripts</uri>
-              <uri>models/coffee_machine/materials/textures</uri>
+              <uri>model://coffee_machine/materials/scripts</uri>
+              <uri>model://coffee_machine/materials/textures</uri>
               <name>coffee_drain</name>
             </script>
           </material>
@@ -12398,7 +12398,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/coffee_machine/meshes/drain.dae</uri>
+              <uri>model://coffee_machine/meshes/drain.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -12429,7 +12429,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/tray/meshes/tray.dae</uri>
+              <uri>model://tray/meshes/tray.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -12456,7 +12456,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/tray/meshes/tray.dae</uri>
+              <uri>model://tray/meshes/tray.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -12487,7 +12487,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/donut_frost_2/meshes/donut2_bread.dae</uri>
+              <uri>model://donut_frost_2/meshes/donut2_bread.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -12514,7 +12514,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/donut_frost_2/meshes/donut2_bread.dae</uri>
+              <uri>model://donut_frost_2/meshes/donut2_bread.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -12540,7 +12540,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/donut_frost_2/meshes/donut2_frost.dae</uri>
+              <uri>model://donut_frost_2/meshes/donut2_frost.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -12567,7 +12567,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/donut_frost_2/meshes/donut2_frost.dae</uri>
+              <uri>model://donut_frost_2/meshes/donut2_frost.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -12593,7 +12593,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/donut_frost_2/meshes/donut2_dust.dae</uri>
+              <uri>model://donut_frost_2/meshes/donut2_dust.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -12620,7 +12620,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/donut_frost_2/meshes/donut2_dust.dae</uri>
+              <uri>model://donut_frost_2/meshes/donut2_dust.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -12651,7 +12651,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/donut_3/meshes/donut1.dae</uri>
+              <uri>model://donut_3/meshes/donut1.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -12678,7 +12678,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/donut_3/meshes/donut1.dae</uri>
+              <uri>model://donut_3/meshes/donut1.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -12709,7 +12709,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/donut_frost_1/meshes/donut2_bread.dae</uri>
+              <uri>model://donut_frost_1/meshes/donut2_bread.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -12736,7 +12736,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/donut_frost_1/meshes/donut2_bread.dae</uri>
+              <uri>model://donut_frost_1/meshes/donut2_bread.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -12762,7 +12762,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/donut_frost_1/meshes/donut2_frost.dae</uri>
+              <uri>model://donut_frost_1/meshes/donut2_frost.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -12789,7 +12789,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/donut_frost_1/meshes/donut2_frost.dae</uri>
+              <uri>model://donut_frost_1/meshes/donut2_frost.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -12815,7 +12815,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/donut_frost_1/meshes/donut2_dust.dae</uri>
+              <uri>model://donut_frost_1/meshes/donut2_dust.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -12842,7 +12842,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/donut_frost_1/meshes/donut2_dust.dae</uri>
+              <uri>model://donut_frost_1/meshes/donut2_dust.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -12878,8 +12878,8 @@
           </geometry>
           <material>
             <script>
-              <uri>models/tea_box/materials/scripts</uri>
-              <uri>models/tea_box/materials/textures</uri>
+              <uri>model://tea_box/materials/scripts</uri>
+              <uri>model://tea_box/materials/textures</uri>
               <name>tea_pat</name>
             </script>
           </material>
@@ -12928,8 +12928,8 @@
           </geometry>
           <material>
             <script>
-              <uri>models/coffee_box/materials/scripts</uri>
-              <uri>models/coffee_box/materials/textures</uri>
+              <uri>model://coffee_box/materials/scripts</uri>
+              <uri>model://coffee_box/materials/textures</uri>
               <name>coffee_pat</name>
             </script>
           </material>
@@ -12973,14 +12973,14 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/can_pepsi/meshes/body.dae</uri>
+              <uri>model://can_pepsi/meshes/body.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
           <material>
             <script>
-              <uri>models/can_pepsi/materials/scripts</uri>
-              <uri>models/can_pepsi/materials/textures</uri>
+              <uri>model://can_pepsi/materials/scripts</uri>
+              <uri>model://can_pepsi/materials/textures</uri>
               <name>pepsi</name>
             </script>
           </material>
@@ -12991,7 +12991,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/can_pepsi/meshes/body.dae</uri>
+              <uri>model://can_pepsi/meshes/body.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -13017,7 +13017,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/can_pepsi/meshes/metal.dae</uri>
+              <uri>model://can_pepsi/meshes/metal.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -13041,7 +13041,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/can_pepsi/meshes/metal.dae</uri>
+              <uri>model://can_pepsi/meshes/metal.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -13072,7 +13072,7 @@
         <visual name='visual'>
           <geometry>
             <mesh>
-              <uri>models/bottle_white_wine/meshes/bottle.dae</uri>
+              <uri>model://bottle_white_wine/meshes/bottle.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -13099,7 +13099,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/bottle_white_wine/meshes/bottle.dae</uri>
+              <uri>model://bottle_white_wine/meshes/bottle.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -13125,7 +13125,7 @@
         <visual name='visual'>
           <geometry>
             <mesh>
-              <uri>models/bottle_white_wine/meshes/cap.dae</uri>
+              <uri>model://bottle_white_wine/meshes/cap.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -13148,7 +13148,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/bottle_white_wine/meshes/cap.dae</uri>
+              <uri>model://bottle_white_wine/meshes/cap.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -13179,7 +13179,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/cup_glass_hex/meshes/cup_glass2.dae</uri>
+              <uri>model://cup_glass_hex/meshes/cup_glass2.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -13201,7 +13201,7 @@
           <max_contacts>10</max_contacts>
           <geometry>
             <mesh>
-              <uri>models/cup_glass_hex/meshes/cup_glass2.dae</uri>
+              <uri>model://cup_glass_hex/meshes/cup_glass2.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -13232,7 +13232,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/tissue_box_3/meshes/paper.dae</uri>
+              <uri>model://tissue_box_3/meshes/paper.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -13255,7 +13255,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/tissue_box_3/meshes/paper.dae</uri>
+              <uri>model://tissue_box_3/meshes/paper.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -13281,14 +13281,14 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/tissue_box_3/meshes/box.dae</uri>
+              <uri>model://tissue_box_3/meshes/box.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
           <material>
             <script>
-              <uri>models/tissue_box_3/materials/scripts</uri>
-              <uri>models/tissue_box_3/materials/textures</uri>
+              <uri>model://tissue_box_3/materials/scripts</uri>
+              <uri>model://tissue_box_3/materials/textures</uri>
               <name>mat3</name>
             </script>
           </material>
@@ -13301,7 +13301,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/tissue_box_3/meshes/box.dae</uri>
+              <uri>model://tissue_box_3/meshes/box.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -13340,7 +13340,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/lamp_table_metal/meshes/base.dae</uri>
+              <uri>model://lamp_table_metal/meshes/base.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -13360,7 +13360,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/lamp_table_metal/meshes/base.dae</uri>
+              <uri>model://lamp_table_metal/meshes/base.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -13387,7 +13387,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/lamp_table_metal/meshes/head.dae</uri>
+              <uri>model://lamp_table_metal/meshes/head.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -13407,7 +13407,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/lamp_table_metal/meshes/head.dae</uri>
+              <uri>model://lamp_table_metal/meshes/head.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -13438,7 +13438,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/camera_fujica/meshes/camera_body.dae</uri>
+              <uri>model://camera_fujica/meshes/camera_body.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -13458,7 +13458,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/camera_fujica/meshes/camera_body.dae</uri>
+              <uri>model://camera_fujica/meshes/camera_body.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -13484,14 +13484,14 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/camera_fujica/meshes/camera_front.dae</uri>
+              <uri>model://camera_fujica/meshes/camera_front.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
           <material>
             <script>
-              <uri>models/camera_fujica/materials/scripts</uri>
-              <uri>models/camera_fujica/materials/textures</uri>
+              <uri>model://camera_fujica/materials/scripts</uri>
+              <uri>model://camera_fujica/materials/textures</uri>
               <name>camera_front</name>
             </script>
           </material>
@@ -13504,7 +13504,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/camera_fujica/meshes/camera_front.dae</uri>
+              <uri>model://camera_fujica/meshes/camera_front.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -13530,7 +13530,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/camera_fujica/meshes/camera_lenses.dae</uri>
+              <uri>model://camera_fujica/meshes/camera_lenses.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -13550,7 +13550,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/camera_fujica/meshes/camera_lenses.dae</uri>
+              <uri>model://camera_fujica/meshes/camera_lenses.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -13576,14 +13576,14 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/camera_fujica/meshes/camera_silver.dae</uri>
+              <uri>model://camera_fujica/meshes/camera_silver.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
           <material>
             <script>
-              <uri>models/camera_fujica/materials/scripts</uri>
-              <uri>models/camera_fujica/materials/textures</uri>
+              <uri>model://camera_fujica/materials/scripts</uri>
+              <uri>model://camera_fujica/materials/textures</uri>
               <name>camera_silver</name>
             </script>
           </material>
@@ -13596,7 +13596,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/camera_fujica/meshes/camera_silver.dae</uri>
+              <uri>model://camera_fujica/meshes/camera_silver.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -13627,7 +13627,7 @@
         <visual name='visual'>
           <geometry>
             <mesh>
-              <uri>models/cup_yellow/meshes/cup_2.dae</uri>
+              <uri>model://cup_yellow/meshes/cup_2.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -13649,7 +13649,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/cup_yellow/meshes/cup.dae</uri>
+              <uri>model://cup_yellow/meshes/cup.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -13679,7 +13679,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/cup_yellow/meshes/drink.dae</uri>
+              <uri>model://cup_yellow/meshes/drink.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -13701,7 +13701,7 @@
           <max_contacts>10</max_contacts>
           <geometry>
             <mesh>
-              <uri>models/cup_yellow/meshes/drink.dae</uri>
+              <uri>model://cup_yellow/meshes/drink.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -13729,7 +13729,7 @@
         <visual name='visual'>
           <geometry>
             <mesh>
-              <uri>models/cup_green/meshes/outer_green.dae</uri>
+              <uri>model://cup_green/meshes/outer_green.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -13749,7 +13749,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/cup_green/meshes/outer_green.dae</uri>
+              <uri>model://cup_green/meshes/outer_green.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -13776,7 +13776,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/cup_green/meshes/inner_red.dae</uri>
+              <uri>model://cup_green/meshes/inner_red.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -13796,7 +13796,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/cup_green/meshes/inner_red.dae</uri>
+              <uri>model://cup_green/meshes/inner_red.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -13823,7 +13823,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/cup_green/meshes/edges.dae</uri>
+              <uri>model://cup_green/meshes/edges.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -13843,7 +13843,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/cup_green/meshes/edges.dae</uri>
+              <uri>model://cup_green/meshes/edges.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -13873,7 +13873,7 @@
         <visual name='visual'>
           <geometry>
             <mesh>
-              <uri>models/cup_blue/meshes/cup1.dae</uri>
+              <uri>model://cup_blue/meshes/cup1.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -13896,7 +13896,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/cup_blue/meshes/cup1.dae</uri>
+              <uri>model://cup_blue/meshes/cup1.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -13928,14 +13928,14 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/book_purple/meshes/book_cover.dae</uri>
+              <uri>model://book_purple/meshes/book_cover.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
           <material>
             <script>
-              <uri>models/book_purple/materials/scripts</uri>
-              <uri>models/book_purple/materials/textures</uri>
+              <uri>model://book_purple/materials/scripts</uri>
+              <uri>model://book_purple/materials/textures</uri>
               <name>book_p</name>
             </script>
           </material>
@@ -13948,7 +13948,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/book_purple/meshes/book_cover.dae</uri>
+              <uri>model://book_purple/meshes/book_cover.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -13975,7 +13975,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/book_purple/meshes/book_page.dae</uri>
+              <uri>model://book_purple/meshes/book_page.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -13998,7 +13998,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/book_purple/meshes/book_page.dae</uri>
+              <uri>model://book_purple/meshes/book_page.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -14029,14 +14029,14 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/can_coke/meshes/body.dae</uri>
+              <uri>model://can_coke/meshes/body.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
           <material>
             <script>
-              <uri>models/can_coke/materials/scripts</uri>
-              <uri>models/can_coke/materials/textures</uri>
+              <uri>model://can_coke/materials/scripts</uri>
+              <uri>model://can_coke/materials/textures</uri>
               <name>coke</name>
             </script>
           </material>
@@ -14047,7 +14047,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/can_coke/meshes/body.dae</uri>
+              <uri>model://can_coke/meshes/body.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -14073,7 +14073,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/can_coke/meshes/metal.dae</uri>
+              <uri>model://can_coke/meshes/metal.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -14097,7 +14097,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/can_coke/meshes/metal.dae</uri>
+              <uri>model://can_coke/meshes/metal.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -14128,14 +14128,14 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/can_fanta/meshes/body.dae</uri>
+              <uri>model://can_fanta/meshes/body.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
           <material>
             <script>
-              <uri>models/can_fanta/materials/scripts</uri>
-              <uri>models/can_fanta/materials/textures</uri>
+              <uri>model://can_fanta/materials/scripts</uri>
+              <uri>model://can_fanta/materials/textures</uri>
               <name>fanta</name>
             </script>
           </material>
@@ -14146,7 +14146,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/can_fanta/meshes/body.dae</uri>
+              <uri>model://can_fanta/meshes/body.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -14172,7 +14172,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/can_fanta/meshes/metal.dae</uri>
+              <uri>model://can_fanta/meshes/metal.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -14196,7 +14196,7 @@
           <pose frame=''>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>models/can_fanta/meshes/metal.dae</uri>
+              <uri>model://can_fanta/meshes/metal.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>

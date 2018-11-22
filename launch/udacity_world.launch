@@ -12,7 +12,7 @@
   <arg name="debug" default="false"/>
 
   <include file="$(find gazebo_ros)/launch/empty_world.launch">
-    <arg name="world_name" value="$(find skid_steer_bot)/worlds/jackal_race.world"/>  <!-- jackal_race, open_space.world  -->
+    <arg name="world_name" value="$(find skid_steer_bot)/worlds/office_small.world"/>  <!-- jackal_race, open_space.world  -->
     <arg name="paused" value="$(arg paused)"/>
     <arg name="use_sim_time" value="$(arg use_sim_time)"/>
     <arg name="gui" value="$(arg gui)"/>
