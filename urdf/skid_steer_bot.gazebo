@@ -18,7 +18,7 @@
 
   <gazebo>
   <plugin name="skid_steer_drive_controller" filename="libgazebo_ros_skid_steer_drive.so">
-    <updateRate>100.0</updateRate>
+    <updateRate>50.0</updateRate>
     <robotNamespace>/</robotNamespace>
     <leftFrontJoint>left_front_wheel_hinge</leftFrontJoint>
     <rightFrontJoint>right_front_wheel_hinge</rightFrontJoint>
@@ -35,7 +35,7 @@
     <broadcastTF>true</broadcastTF>
     <covariance_x>0.001</covariance_x> <!-- 0.0001 -->
     <covariance_y>0.001</covariance_y> <!-- 0.0001 -->
-    <covariance_yaw>0.01</covariance_yaw> <!-- 0.01 -->
+    <covariance_yaw>0.001</covariance_yaw> <!-- 0.01 -->
   </plugin>
 </gazebo>
 
@@ -78,7 +78,7 @@
     <sensor type="ray" name="head_hokuyo_sensor">
       <pose>0 0 0 0 0 0</pose>
       <visualize>false</visualize>
-      <update_rate>40</update_rate>
+      <update_rate>30</update_rate>
       <ray>
         <scan>
           <horizontal>
