@@ -1,0 +1,1 @@
+uninstall sdf libraries first to guarantee compatibility with sdf 1.6 or uninstall and reinstall gazebo and gazebo ros-pkgs
