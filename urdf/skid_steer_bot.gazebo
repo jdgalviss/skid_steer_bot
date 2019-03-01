@@ -40,7 +40,7 @@
 </gazebo>
 
 
-  <gazebo reference="camera">
+  <!-- <gazebo reference="camera">
     <material>Gazebo/Grey</material>
     <sensor type="camera" name="camera1">
       <update_rate>30.0</update_rate>
@@ -71,7 +71,7 @@
         <distortionT2>0.0</distortionT2>
       </plugin>
     </sensor>
-  </gazebo>
+  </gazebo> -->
 
   <!-- hokuyo -->
   <gazebo reference="hokuyo">
@@ -91,7 +91,7 @@
         <range>
           <min>0.10</min>
           <max>30.0</max>
-          <resolution>0.01</resolution>
+          <resolution>0.005</resolution>
         </range>
         <noise>
           <type>gaussian</type>
@@ -100,7 +100,7 @@
                stddev of 0.01m will put 99.7% of samples within 0.03m of the true
                reading. -->
           <mean>0.0</mean>
-          <stddev>0.01</stddev>
+          <stddev>0.0001</stddev>
         </noise>
       </ray>
       <plugin name="gazebo_ros_head_hokuyo_controller" filename="libgazebo_ros_laser.so">

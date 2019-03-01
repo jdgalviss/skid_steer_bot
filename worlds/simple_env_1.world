@@ -18,10 +18,19 @@
       </attenuation>
       <direction>-0.5 0.5 -1</direction>
     </light>
+    
     <physics name='default_physics' default='0' type='ode'>
       <max_step_size>0.001</max_step_size>
       <real_time_factor>1</real_time_factor>
       <real_time_update_rate>1000</real_time_update_rate>
+      <gravity>0 0 -9.8</gravity>
+      <ode>
+        <solver>
+          <type>quick</type>
+          <iters>50</iters>
+          <friction_model>cone_model</friction_model>
+        </solver>
+      </ode>
     </physics>
     <scene>
       <ambient>0.4 0.4 0.4 1</ambient>
