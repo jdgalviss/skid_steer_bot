@@ -31,11 +31,11 @@
 
   <xacro:property name="hardware_width" value="${mower_width/2.0}" />
   <xacro:property name="hardware_length" value="${mower_length/2.0}" />
-  <xacro:property name="hardware_height" value="${mower_height/2.0}" />
+  <xacro:property name="hardware_height" value="${mower_height/2.0 + 0.1}" />
   <xacro:property name="hardware_z_offset" value="${hardware_height/2.0}" />
 
   <xacro:property name="wheel_length" value="${scale * 0.05}" />
-  <xacro:property name="wheel_radius" value="${scale * 0.08}" />
+  <xacro:property name="wheel_radius" value="${scale * 0.11}" />
   <xacro:property name="wheel_mass" value="${scale * 1}" />
   <xacro:property name="wheel_inertia" value="${scale * 1e-3}" />
   <xacro:property name="wheel_x_offset" value="${base_x_offset + mower_length/2.0}" />
@@ -44,9 +44,17 @@
   <xacro:property name="camerra_width" value="0.05" />
   <xacro:property name="camerra_length" value="0.05" />
   <xacro:property name="camerra_height" value="0.05" />
-  <xacro:property name="camerra_x_offset" value="${hardware_length/2.0 + base_x_offset - camerra_length/2.0 + 0.001}" />
-  <xacro:property name="camerra_z_offset" value="${hardware_height - camerra_height/2.0 + 0.001}" />
+  <xacro:property name="camerra_x_offset" value="${hardware_length/2.0 + base_x_offset - camerra_length/2.0 + 0.02}" />
+  <xacro:property name="camerra_z_offset" value="${hardware_height - camerra_height/2.0 + 0.01}" />
+  <xacro:property name="camerra_left_x_offset" value="${hardware_length/2.0 + base_x_offset - camerra_length/2.0 + 0.02}" />
+  <xacro:property name="camerra_left_z_offset" value="${hardware_height - camerra_height/2.0 + 0.01}" />
+  <xacro:property name="camerra_left_y_offset" value="${scale * 0.1}" />
+  <xacro:property name="side_camera_yaw" value="0.2618" />
 
+  
+  <xacro:property name="camerra_right_x_offset" value="${hardware_length/2.0 + base_x_offset - camerra_length/2.0 + 0.02}" />
+  <xacro:property name="camerra_right_z_offset" value="${hardware_height - camerra_height/2.0 + 0.01}" />
+  <xacro:property name="camerra_right_y_offset" value="${scale * -0.1}" />
   <xacro:property name="laser_width" value="0.1" />
   <xacro:property name="laser_length" value="0.1" />
   <xacro:property name="laser_height" value="0.1" />
@@ -302,7 +310,7 @@
 
   <link name='camera'>
     <inertial>
-      <mass value="0.1"/>
+      <mass value="0.001"/>
       <origin xyz="0 0 0" rpy=" 0 0 0"/>
       <inertia
           ixx="1e-6" ixy="0" ixz="0"
@@ -326,6 +334,72 @@
   <joint type="fixed" name="camera_joint">
     <origin xyz="${camerra_x_offset} 0 ${camerra_z_offset}" rpy="0 0 0"/>
     <child link="camera"/>
+    <parent link="chassis"/>
+    <axis xyz="0 1 0" rpy="0 0 0"/>
+    <limit effort="10000" velocity="1000"/>
+    <joint_properties damping="1.0" friction="1.0"/>
+  </joint>
+
+
+  <link name='camera_left'>
+    <inertial>
+      <mass value="0.001"/>
+      <origin xyz="0 0 0" rpy=" 0 0 0"/>
+      <inertia
+          ixx="1e-6" ixy="0" ixz="0"
+          iyy="1e-6" iyz="0"
+          izz="1e-6"/>
+    </inertial>
+    <collision name='camera_left_collision'>
+      <origin xyz="0 0 0" rpy=" 0 0 0"/>
+      <geometry>
+        <box size="${camerra_length} ${camerra_width} ${camerra_height}"/>
+      </geometry>
+    </collision>
+    <visual name='camera_visual'>
+      <origin xyz="0 0 0" rpy=" 0 0 0"/>
+      <geometry>
+        <box size="${camerra_length} ${camerra_width} ${camerra_height}"/>
+      </geometry>
+    </visual>
+  </link>
+
+  <joint type="fixed" name="camera_left_joint">
+    <origin xyz="${camerra_left_x_offset} ${camerra_left_y_offset} ${camerra_left_z_offset}" rpy="0 0 ${side_camera_yaw}"/>
+    <child link="camera_left"/>
+    <parent link="chassis"/>
+    <axis xyz="0 1 0" rpy="0 0 0"/>
+    <limit effort="10000" velocity="1000"/>
+    <joint_properties damping="1.0" friction="1.0"/>
+  </joint>
+
+
+  <link name='camera_right'>
+    <inertial>
+      <mass value="0.001"/>
+      <origin xyz="0 0 0" rpy=" 0 0 0"/>
+      <inertia
+          ixx="1e-6" ixy="0" ixz="0"
+          iyy="1e-6" iyz="0"
+          izz="1e-6"/>
+    </inertial>
+    <collision name='camera_right_collision'>
+      <origin xyz="0 0 0" rpy=" 0 0 0"/>
+      <geometry>
+        <box size="${camerra_length} ${camerra_width} ${camerra_height}"/>
+      </geometry>
+    </collision>
+    <visual name='camera_visual'>
+      <origin xyz="0 0 0" rpy=" 0 0 0"/>
+      <geometry>
+        <box size="${camerra_length} ${camerra_width} ${camerra_height}"/>
+      </geometry>
+    </visual>
+  </link>
+
+  <joint type="fixed" name="camera_right_joint">
+    <origin xyz="${camerra_right_x_offset} ${camerra_right_y_offset} ${camerra_right_z_offset}" rpy="0 0 ${-side_camera_yaw}"/>
+    <child link="camera_right"/>
     <parent link="chassis"/>
     <axis xyz="0 1 0" rpy="0 0 0"/>
     <limit effort="10000" velocity="1000"/>
