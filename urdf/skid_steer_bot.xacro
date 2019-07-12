@@ -49,7 +49,7 @@
   <xacro:property name="camerra_left_x_offset" value="${hardware_length/2.0 + base_x_offset - camerra_length/2.0 + 0.02}" />
   <xacro:property name="camerra_left_z_offset" value="${hardware_height - camerra_height/2.0 + 0.01}" />
   <xacro:property name="camerra_left_y_offset" value="${scale * 0.1}" />
-  <xacro:property name="side_camera_yaw" value="0.2618" />
+  <xacro:property name="side_camera_yaw" value="0.523" />
 
   
   <xacro:property name="camerra_right_x_offset" value="${hardware_length/2.0 + base_x_offset - camerra_length/2.0 + 0.02}" />
