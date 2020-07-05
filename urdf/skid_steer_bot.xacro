@@ -2,7 +2,8 @@
 
 <robot name="skid_steer_bot" xmlns:xacro="http://www.ros.org/wiki/xacro">
 
-  <xacro:include filename="$(find skid_steer_bot)/urdf/skid_steer_bot.gazebo" />
+  <!-- <xacro:include filename="$(find skid_steer_bot)/urdf/skid_steer_bot.gazebo" /> -->
+  <xacro:include filename="$(find skid_steer_bot)/urdf/skid_steer_bot_single_cam.gazebo" />
 
   <!-- Scale the robot size to fit the environment -->
   <xacro:property name="scale" value="1.0" />
