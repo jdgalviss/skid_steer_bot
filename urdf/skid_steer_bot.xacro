@@ -342,7 +342,7 @@
   </joint>
 
 
-  <link name='camera_left'>
+  <!-- <link name='camera_left'>
     <inertial>
       <mass value="0.001"/>
       <origin xyz="0 0 0" rpy=" 0 0 0"/>
@@ -405,7 +405,7 @@
     <axis xyz="0 1 0" rpy="0 0 0"/>
     <limit effort="10000" velocity="1000"/>
     <joint_properties damping="1.0" friction="1.0"/>
-  </joint>
+  </joint> -->
 
 
   <link name='hokuyo'>

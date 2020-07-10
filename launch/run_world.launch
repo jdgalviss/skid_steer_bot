@@ -12,7 +12,7 @@
   <arg name="debug" default="false"/>
 
   <include file="$(find gazebo_ros)/launch/empty_world.launch">
-    <arg name="world_name" value="$(find skid_steer_bot)/worlds/simple_city.world"/>  <!-- jackal_race, open_space.world  -->
+    <arg name="world_name" value="$(find skid_steer_bot)/worlds/simple_city_orig.world"/>  <!-- jackal_race, open_space.world  -->
     <arg name="paused" value="$(arg paused)"/>
     <arg name="use_sim_time" value="$(arg use_sim_time)"/>
     <arg name="gui" value="$(arg gui)"/>
@@ -25,6 +25,6 @@
   output="screen" args="-urdf -param robot_description -model skid_steer_bot"/>
 
   <!--launch rviz-->
-  <node name="rviz" pkg="rviz" type="rviz" args="-d $(find skid_steer_bot)/launch/Rvizconfig.rviz"/>
+  <!-- <node name="rviz" pkg="rviz" type="rviz" args="-d $(find skid_steer_bot)/launch/Rvizconfig.rviz"/> -->
 
 </launch>
